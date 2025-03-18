@@ -7,12 +7,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>新北ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮</title>
+    <title>妡ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮</title>
     <meta name="description" content="氣球派對、婚禮佈置 ｜性別派對、收涎抓周｜空飄氣球、爆破氣球 ｜永生花禮、鈔票花禮">
-    <meta itemprop="name" content="新北ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮">
+    <meta itemprop="name" content="妡ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮">
     <meta itemprop="description" content="氣球派對、婚禮佈置 ｜性別派對、收涎抓周｜空飄氣球、爆破氣球 ｜永生花禮、鈔票花禮">
     <meta itemprop="image" content="images/logo.jpg">
-    <meta property="og:title" content="新北ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮">
+    <meta property="og:title" content="妡ɪ ʟᴏᴠᴇ 花藝氣球佈置｜婚禮、生日、氣球、花禮">
     <meta property="og:description" content="氣球派對、婚禮佈置 ｜性別派對、收涎抓周｜空飄氣球、爆破氣球 ｜永生花禮、鈔票花禮">
     <meta property="og:image" content="images/logo.jpg">
     <!-- Favicon-->
@@ -30,7 +30,7 @@
     <!-- Site Stylesheet-->
     <link rel="stylesheet" href="./static/css/app.css" type="text/css">
     <link rel="stylesheet" href="./static/css/responsive.css" type="text/css">
-    <link rel="stylesheet" href="css/main.css?v=1741847408694">
+    <link rel="stylesheet" href="css/main.css?v=1742318586416">
     <!-- Google Web Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=EB+Garamond:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap" rel="stylesheet">
@@ -93,19 +93,15 @@
                         <nav id="main-navigation">
                           <ul class="menu" id="menu-main-menu">
                             <li class="level-0 menu-item"><a href="index.html"><span class="menu-item-text">首頁</span></a></li>
-                            <li class="level-0 menu-item menu-item-has-children"><a><span class="menu-item-text">花藝氣球佈置商品</span></a>
-                              <ul class="sub-menu">
-                                <template v-for="item in menuData">
-                                  <li class="menu-item" :class="`${item.children ? 'menu-item-has-children' : ''}`"><a :href="`group.html?group=${item.id}`"><span class="menu-item-text">{{item.name}}</span></a>
-                                    <template v-if="item.children">
-                                      <ul class="sub-menu">
-                                        <li v-for="sub in item.children"><a :href="`product-list.html?category=${sub.id}`"><span class="menu-item-text">{{sub.name}}</span></a></li>
-                                      </ul>
-                                    </template>
-                                  </li>
+                            <template v-for="item in menuData">
+                              <li class="level-0 menu-item" :class="`${item.children ? 'menu-item-has-children' : ''}`"><a :href="`group.html?group=${item.id}`"><span class="menu-item-text">{{item.name}}</span></a>
+                                <template v-if="item.children">
+                                  <ul class="sub-menu">
+                                    <li v-for="sub in item.children"><a :href="`product-list.html?category=${sub.id}`"><span class="menu-item-text">{{sub.name}}</span></a></li>
+                                  </ul>
                                 </template>
-                              </ul>
-                            </li>
+                              </li>
+                            </template>
                             <li class="level-0 menu-item"><a href="notice.html"><span class="menu-item-text">購物須知</span></a></li>
                           </ul>
                         </nav>
@@ -262,6 +258,12 @@
                     <div class="col-lg-3 col-md-6">
                       <div class="block block-social">
                         <h2 class="block-title">Contact Us</h2>
+                        <div class="block-content mb-5">
+                          <ul> 
+                            <li class="mb-4"> <span>AM 10:00 - PM 08:00</span></li>
+                            <li><a href="tel:0934081875">TEL: 0934081875</a></li>
+                          </ul>
+                        </div>
                         <ul class="social-link">
                           <li><a href="https://lin.ee/QRqkPc3" target="_blank">
                               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -292,7 +294,7 @@
                       <div class="block block-map">
                         <h2 class="block-title">Visit Our Store</h2>
                         <div class="block-content">
-                          <iframe class="entered exited lazyloaded" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.914540151743!2d121.41168340000002!3d25.0030197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681d727a64f4c9%3A0x83fa72f4b25ef184!2zMjM45paw5YyX5biC5qi55p6X5Y2A5YWJ6IiI6KGXNDfomZ8!5e0!3m2!1szh-TW!2stw!4v1740820501070!5m2!1szh-TW!2stw" aria-label="London Eye, London, United Kingdom" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" data-ll-status="loaded"></iframe>
+                          <iframe class="entered exited lazyloaded" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.914540151743!2d121.41168340000002!3d25.0030197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681d9cf5b94b99%3A0xc4f6b4083c1f8eb2!2z5oSb5qiC6IqZ5qi55p6X5bqXLuWmoUkgbG92ZeiKseiXneawo-eQg-S9iOe9ru-8iOmgkOe0hOWItu-8iSDlqZrnpq7vvZzmsKPnkIPvvZzoirHol53vvZzlrpjmlrlsaW5lOiBANTIwbG92ZQ!5e0!3m2!1szh-TW!2stw!4v1742273956910!5m2!1szh-TW!2stw" aria-label="" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" data-ll-status="loaded"></iframe>
                         </div>
                       </div>
                     </div>
@@ -356,10 +358,10 @@
     <script src="static/libs/countdown/js/jquery.countdown.min.js"></script>
     <script src="static/libs/mmenu/js/jquery.mmenu.all.min.js"></script>
     <!-- Site Scripts-->
-    <script src="static/js/app.js?v=1741847408694"></script>
+    <script src="static/js/app.js?v=1742318586416"></script>
     <script type="text/javascript" src="js/vendor.js"></script>
     <script type="text/javascript" src="js/lib.js"></script>
-    <script src="js/app.js?v=1741847408694"></script>
-    <script src="js/index.js?v=1741847408694"></script>
+    <script src="js/app.js?v=1742318586416"></script>
+    <script src="js/index.js?v=1742318586416"></script>
   </body>
 </html>

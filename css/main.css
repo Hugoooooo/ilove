@@ -430,7 +430,7 @@ p {
   line-height: 1.5;
 }
 
-.button {
+.button1 {
   color: #fff;
   background: #000;
   padding: 1rem 3rem;
@@ -438,9 +438,34 @@ p {
   letter-spacing: 1px;
   display: inline-block;
 }
-.button:hover {
+.button1:hover {
   color: #fff;
   background: #666;
+}
+
+.button2 {
+  transition: none;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  line-height: 50px;
+  position: relative;
+  background: black;
+  color: #fff;
+  text-align: center;
+  margin-right: 20px;
+  padding: 0 15px;
+  cursor: pointer;
+  display: block;
+  vertical-align: top;
+  flex: 1;
+  margin: 0;
+  white-space: nowrap;
+}
+.button2:hover {
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
 }
 
 .line-logo {
@@ -628,6 +653,20 @@ p {
   padding-left: 1.4rem;
   list-style: disc;
   line-height: 1.8;
+}
+
+.site-navigation ul > li.level-0 {
+  position: relative;
+  float: none;
+  display: inline-block;
+  z-index: initial;
+  padding: 2px 18px;
+}
+
+.banner-img {
+  background-position: center;
+  background-size: cover;
+  height: 500px;
 }
 
 #site-footer .social-link li {
