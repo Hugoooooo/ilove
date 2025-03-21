@@ -502,6 +502,10 @@ p {
   padding: 10px 7.5px;
 }
 
+.block-sliders.layout-15 .item-content .item-info .title-slider {
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
 @media (max-width: 991px) {
   .line-logo {
     bottom: 95px;
@@ -617,7 +621,7 @@ p {
   letter-spacing: 1px;
 }
 
-.group-block img.group-img {
+.group-block img.group-img, .group-block .group-img {
   -webkit-filter: brightness(0.5);
           filter: brightness(0.5);
 }
@@ -633,7 +637,7 @@ p {
   z-index: 2;
 }
 .group-block .banner-wrapper-infor .title-banner {
-  color: #fff;
+  color: #eee;
   letter-spacing: 1px;
   font-weight: 500;
 }
@@ -667,6 +671,8 @@ p {
   background-position: center;
   background-size: cover;
   height: 500px;
+  -webkit-filter: contrast(0.75);
+          filter: contrast(0.75);
 }
 
 #site-footer .social-link li {
