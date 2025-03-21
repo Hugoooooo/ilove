@@ -699,6 +699,19 @@ p {
     max-width: 70vw;
     padding: 35px;
   }
+
+  #site-footer .social-link li {
+    margin: 0 15px;
+  }
+  #site-footer .social-link li a i {
+    font-size: 30px;
+  }
+  #site-footer .social-link li a svg {
+    width: 30px;
+  }
+  #site-footer .social-link li a:hover svg {
+    width: 30px;
+  }
 }
 [v-cloak] * {
   display: none;
