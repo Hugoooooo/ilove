@@ -1506,8 +1506,8 @@
             "name": "生日佈置02",
             "category": "category7-1",
             "id": "product7102",
-            "price": "NT$21,000 ",
-            "content": "【空飄】\n40吋數字鋁箔空飄x2\n24吋亮片波波球x2\n18吋亮片波波球x1\n18吋4D球x2\n18吋鋁箔愛心空飄x4\n12吋空飄x30\n12吋金屬球x10\n12吋印花球x10\n【空氣】\n16吋生日字母氣球x1\n10吋乳膠地板球x50",
+            "price": "NT$23,000 ",
+            "content": "【空飄】\n12吋乳膠空飄氣球x20\n24吋鋁箔氣球x1\n【空氣】\n10吋乳膠地板球x50\n客製化雨絲簾x2",
             "warning": "",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -1517,10 +1517,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": [
-              "images/products/category7-1/2-1.webp",
-              "images/products/category7-1/2-2.webp"
-            ]
+            "img": ["images/products/category7-1/2.jpg"]
           },
           {
             "name": "生日佈置03",
@@ -2128,7 +2125,7 @@
             "category": "category9-1",
             "id": "product9104",
             "price": "NT$13,000",
-            "content": "【空飄】\n24吋性別爆破球x1\n【氣球】\n熱氣球x1\n造型鋁箔x1\nBABY氣球盒x1\n藍粉木紋背板180x180cm x1\n【不含圖中娃娃】",
+            "content": "【氣球】\n24吋性別爆破球x1\n熱氣球x1\n造型鋁箔x1\nBABY氣球盒x1\n藍粉木紋背板180x180cm x1\n【不含圖中娃娃】",
             "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -2164,7 +2161,7 @@
             "name": "性別派對佈置06",
             "category": "category9-1",
             "id": "product9106",
-            "price": "NT$9,000 ",
+            "price": "NT$11,000 ",
             "content": "【空飄】\n24吋性別爆破球x1\n【氣球】\n地面氣氛球x15\n不規則氣球鏈x1\nBABY氣球盒x1\n客製化背板設計200x110cm x1",
             "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
@@ -2512,6 +2509,23 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": ["images/products/category11-2/6.jpg"]
+          },
+          {
+            "name": "開業花籃",
+            "category": "category11-2",
+            "id": "product11207",
+            "price": "NT$3,000 ",
+            "content": "永生花花色可換",
+            "warning": "若有灰塵可用小刷子清除，避免陽光曝曬及潮濕，保持乾燥環境。\n照片多少會有色差，出貨以實際商品顏色為主。\n每一件花禮都是獨一無二，無法完全100%一致。\n花材都是天然的，花瓣上可能會有小瑕疵或裂痕，請您見諒。\n花材若因季節性或其他因素短缺，將會以相似的花材代替，以達到同個效果。\n商品運送前會確保包裝穩固，運送過程中難免會有小花屑，完美主義者請考慮清楚再下單。",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category11-2/7.jpg"]
           }
         ]
       }
@@ -2520,13 +2534,31 @@
   {
     "name": "鈔票花禮",
     "id": "category12",
-    "img": "images/collection/12.jpg",
+    "img": "images/collection/12-1.webp",
     "children": [
       {
         "name": "花束",
         "id": "category12-1",
-        "img": "",
-        "children": []
+        "img": "images/products/category12-1/1.jpg",
+        "children": [
+          {
+            "name": "鈔票花束01",
+            "category": "category12-1",
+            "id": "product12101",
+            "price": "NT$880 ",
+            "content": "永生花花色可換\n此金額不含真鈔\n多加1張鈔票加50元",
+            "warning": "若有灰塵可用小刷子清除，避免陽光曝曬及潮濕，保持乾燥環境。\n照片多少會有色差，出貨以實際商品顏色為主。\n每一件花禮都是獨一無二，無法完全100%一致。\n花材都是天然的，花瓣上可能會有小瑕疵或裂痕，請您見諒。\n花材若因季節性或其他因素短缺，將會以相似的花材代替，以達到同個效果。\n商品運送前會確保包裝穩固，運送過程中難免會有小花屑，完美主義者請考慮清楚再下單。",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category12-1/1.jpg"]
+          }
+        ]
       },
       {
         "name": "蛋糕",
