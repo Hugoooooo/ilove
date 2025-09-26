@@ -10,10 +10,10 @@
         "img": "images/products/category1-1/1.JPG",
         "children": [
           {
-            "name": "婚禮佈置01",
+            "name": "婚禮佈置29",
             "category": "category1-1",
-            "id": "product1101",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "id": "product1129",
+            "content": "背板尺寸:300 × 500 cm\n婚禮場地:台北漢來 Grand Hilal Taipei\n\n專案內容包含\n\n1.拍照區背景\n2.收禮桌、相片桌（桌子由餐廳提供）\n3.客製 LOGO 設計\n4.現場燈光調整\n5.公版地貼、相框架擺設\n6.進場 & 撤場服務（晚宴撤場需加收非營業時間費用）\n7.背板設計客製圖稿\n（＊不含周邊道具與花藝模擬圖）\n\n注意事項\n\n1.停車費用請新人協助消磁\n2.雙北、桃園以外地區需另加收車馬費。\n3.背板尺寸可依需求調整，費用將依實際尺寸與設計內容另行報價。\n4.專案皆使用仿真花，如需更換為鮮花，將另行報價。\n5.收禮、相片桌子若需由我們額外提供，將多收NT$500。\n6.背板設計圖稿提供三次免費微調，超過次數將酌收每次 NT$300 修改費用。\n7.佈置道具如有毀損或遺失，將依實際情況酌收賠償費用。\n8.可另行加購其他客製化周邊（如立牌、迎賓板、桌旗等）。",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -22,12 +22,18 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/1.JPG"]
+            "img": ["images/products/category1-1/29-1.jpg",
+                    "images/products/category1-1/29-2.jpg",
+                    "images/products/category1-1/29-3.jpg",
+                    "images/products/category1-1/29-4.jpg",
+                    "images/products/category1-1/29-5.jpg"
+          ]
           },
           {
-            "name": "婚禮佈置02",
+            "name": "婚禮佈置28",
             "category": "category1-1",
-            "id": "product1102",
+            "id": "product1128",
+            "order":1,
             "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -37,381 +43,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/2.webp"]
-          },
-          {
-            "name": "婚禮佈置03",
-            "category": "category1-1",
-            "id": "product1103",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/3.webp"]
-          },
-          {
-            "name": "婚禮佈置04",
-            "category": "category1-1",
-            "id": "product1104",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/4.JPG"]
-          },
-          {
-            "name": "婚禮佈置05",
-            "category": "category1-1",
-            "id": "product1105",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/5.jpg"]
-          },
-          {
-            "name": "婚禮佈置06",
-            "category": "category1-1",
-            "id": "product1106",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/6.JPG"]
-          },
-          {
-            "name": "婚禮佈置07",
-            "category": "category1-1",
-            "id": "product1107",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/7.webp"]
-          },
-          {
-            "name": "婚禮佈置08",
-            "category": "category1-1",
-            "id": "product1108",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/8.webp"]
-          },
-          {
-            "name": "婚禮佈置09",
-            "category": "category1-1",
-            "id": "product1109",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/9.webp"]
-          },
-          {
-            "name": "婚禮佈置10",
-            "category": "category1-1",
-            "id": "product1110",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/10.webp"]
-          },
-          {
-            "name": "婚禮佈置11",
-            "category": "category1-1",
-            "id": "product1111",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/11.webp"]
-          },
-          {
-            "name": "婚禮佈置12",
-            "category": "category1-1",
-            "id": "product1112",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/12.webp"]
-          },
-          {
-            "name": "婚禮佈置13",
-            "category": "category1-1",
-            "id": "product1113",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/13.webp"]
-          },
-          {
-            "name": "婚禮佈置14",
-            "category": "category1-1",
-            "id": "product1114",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category1-1/14.jpg",
-              "images/products/category1-1/14-1.jpg",
-              "images/products/category1-1/14-2.jpg"
-            ]
-          },
-          {
-            "name": "婚禮佈置15",
-            "category": "category1-1",
-            "id": "product1115",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/15.jpg"]
-          },
-          {
-            "name": "婚禮佈置16",
-            "category": "category1-1",
-            "id": "product1116",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/16.jpg"]
-          },
-          {
-            "name": "婚禮佈置17",
-            "category": "category1-1",
-            "id": "product1117",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/17.jpg"]
-          },
-          {
-            "name": "婚禮佈置18",
-            "category": "category1-1",
-            "id": "product1118",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/18.jpg"]
-          },
-          {
-            "name": "婚禮佈置19",
-            "category": "category1-1",
-            "id": "product1119",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/19.jpg"]
-          },
-          {
-            "name": "婚禮佈置20",
-            "category": "category1-1",
-            "id": "product1120",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/20.jpg"]
-          },
-          {
-            "name": "婚禮佈置21",
-            "category": "category1-1",
-            "id": "product1121",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/21.jpg"]
-          },
-          {
-            "name": "婚禮佈置22",
-            "category": "category1-1",
-            "id": "product1122",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category1-1/22-1.jpg",
-              "images/products/category1-1/22-2.jpg",
-              "images/products/category1-1/22-3.jpg"
-            ]
-          },
-          {
-            "name": "婚禮佈置23",
-            "category": "category1-1",
-            "id": "product1123",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category1-1/23-1.jpg",
-              "images/products/category1-1/23-2.jpg",
-              "images/products/category1-1/23-3.jpg",
-              "images/products/category1-1/23-4.jpg",
-              "images/products/category1-1/23-5.jpg"
-            ]
-          },
-          {
-            "name": "婚禮佈置24",
-            "category": "category1-1",
-            "id": "product1124",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/24.jpg"]
-          },
-          {
-            "name": "婚禮佈置25",
-            "category": "category1-1",
-            "id": "product1125",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/25.jpg"]
-          },
-          {
-            "name": "婚禮佈置26",
-            "category": "category1-1",
-            "id": "product1126",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category1-1/26.jpg"]
+            "img": ["images/products/category1-1/28.jpg"]
           },
           {
             "name": "婚禮佈置27",
@@ -429,9 +61,9 @@
             "img": ["images/products/category1-1/27.jpg"]
           },
           {
-            "name": "婚禮佈置28",
+            "name": "婚禮佈置26",
             "category": "category1-1",
-            "id": "product1128",
+            "id": "product1126",
             "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -441,12 +73,12 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/28.jpg"]
+            "img": ["images/products/category1-1/26.JPG"]
           },
           {
-            "name": "婚禮佈置29",
+            "name": "婚禮佈置25",
             "category": "category1-1",
-            "id": "product1129",
+            "id": "product1125",
             "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -456,7 +88,376 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/29.jpg"]
+            "img": ["images/products/category1-1/25.jpg"]
+          },
+          {
+            "name": "婚禮佈置24",
+            "category": "category1-1",
+            "id": "product1124",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/24.JPG"]
+          },
+          {
+            "name": "婚禮佈置023",
+            "category": "category1-1",
+            "id": "product1123",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/23.JPG"]
+          },
+          {
+            "name": "婚禮佈置22",
+            "category": "category1-1",
+            "id": "product1122",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/22-1.jpg",
+                    "images/products/category1-1/22-2.jpg",
+                    "images/products/category1-1/22-3.jpg"          
+          ]
+          },
+          {
+            "name": "婚禮佈置21",
+            "category": "category1-1",
+            "id": "product1121",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/21.jpg"]
+          },
+          {
+            "name": "婚禮佈置20",
+            "category": "category1-1",
+            "id": "product1120",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/20.jpg"]
+          },
+          {
+            "name": "婚禮佈置19",
+            "category": "category1-1",
+            "id": "product1119",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/19.jpg"]
+          },
+          {
+            "name": "婚禮佈置18",
+            "category": "category1-1",
+            "id": "product1118",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/18.jpg"]
+          },
+          {
+            "name": "婚禮佈置17",
+            "category": "category1-1",
+            "id": "product1117",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/17.jpg"]
+          },
+          {
+            "name": "婚禮佈置16",
+            "category": "category1-1",
+            "id": "product1116",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category1-1/16.jpg"]
+          },
+          {
+            "name": "婚禮佈置15",
+            "category": "category1-1",
+            "id": "product1115",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/15.jpg"]
+          },
+          {
+            "name": "婚禮佈置14",
+            "category": "category1-1",
+            "id": "product1114",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/14-1.jpg",
+                    "images/products/category1-1/14-2.jpg",
+                    "images/products/category1-1/14-3.jpg"
+          ]
+          },
+          {
+            "name": "婚禮佈置13",
+            "category": "category1-1",
+            "id": "product1113",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/13.webp"]
+          },
+          {
+            "name": "婚禮佈置12",
+            "category": "category1-1",
+            "id": "product1112",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/12.webp"]
+          },
+          {
+            "name": "婚禮佈置11",
+            "category": "category1-1",
+            "id": "product1111",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/11.webp"]
+          },
+          {
+            "name": "婚禮佈置10",
+            "category": "category1-1",
+            "id": "product1110",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/10.webp"]
+          },
+          {
+            "name": "婚禮佈置09",
+            "category": "category1-1",
+            "id": "product1109",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/9.webp"]
+          },
+          {
+            "name": "婚禮佈置08",
+            "category": "category1-1",
+            "id": "product1108",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category1-1/8.webp"]
+          },
+          {
+            "name": "婚禮佈置07",
+            "category": "category1-1",
+            "id": "product1107",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category1-1/7.webp"]
+          },
+          {
+            "name": "婚禮佈置06",
+            "category": "category1-1",
+            "id": "product1106",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/6.jpg"]
+          },
+          {
+            "name": "婚禮佈置05",
+            "category": "category1-1",
+            "id": "product1105",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/5.jpg"]
+          },
+          {
+            "name": "婚禮佈置04",
+            "category": "category1-1",
+            "id": "product1104",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/4.jpg"]
+          },
+          {
+            "name": "婚禮佈置03",
+            "category": "category1-1",
+            "id": "product1103",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/3.webp"]
+          },
+          {
+            "name": "婚禮佈置02",
+            "category": "category1-1",
+            "id": "product1102",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/2.webp"]
+          },
+          {
+            "name": "婚禮佈置01",
+            "category": "category1-1",
+            "id": "product1101",
+            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/1.jpg"]
           }
         ]
       },
@@ -548,127 +549,128 @@
       }
     ]
   },
-  {
-    "name": "求婚告白系列",
-    "id": "category2",
-    "img": "images/products/category2-1/1-1.jpg",
-    "children": [
-      {
-        "name": "求婚告白佈置",
-        "id": "category2-1",
-        "img": "images/products/category2-1/1-1.jpg",
-        "children": [
-          {
-            "name": "求婚/告白佈置01",
-            "price": "NT$24,000",
-            "category": "category2-1",
-            "id": "product2101",
-            "content": "【空飄】\n空爆球 x2\n12吋空飄氣球 x40\n18吋LED鋁箔氣球 x2\n【空氣】\n立體氣球愛心 x1\n造型鋁箔球墩 x6\n地板球 x60\nMARRY ME燈飾\n地面愛心花瓣+LED蜡燭燈\n此為套餐組合，含專人佈置",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category2-1/1-1.jpg",
-              "images/products/category2-1/2-2.jpg"
-            ]
-          },
-          {
-            "name": "求婚/告白佈置02",
-            "price": "NT$7,500",
-            "category": "category2-1",
-            "id": "product2102",
-            "content": "【空飄】\n18吋LED波波球 x6\n【空氣】\nMarry Me鋁箔球 x1\nLOVE鋁箔球 x1\n造型鋁箔氣球 x4\n地板球 x20\n地面愛心花瓣+LED蜡燭燈\n此套組合不含立柱氣球，含專人佈置進",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category2-1/2-1.gif",
-                    "images/products/category2-1/2-2.jpg"
+{
+  "name": "求婚告白系列",
+  "id": "category2",
+  "img": "images/products/category2-1/1-1.jpg",
+  "children": [
+    {
+      "name": "求婚告白佈置",
+      "id": "category2-1",
+      "img": "images/products/category2-1/1-1.jpg",
+      "children": [
+        {
+          "name": "求婚/告白佈置06",
+          "price": "NT$16,000",
+          "category": "category2-1",
+          "id": "product2106",
+          "content": "【空飄】\n12吋空飄氣球 x20\n【空氣】\n立體氣球大愛心x1\n不規則氣球鏈 x1\n客製照片板 x1\nMarry Me背板 x1\nMarry Me LED燈 x1\n走道花瓣 x1\n此為套餐組合，含專人佈置進、撤場",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": [
+            "images/products/category2-1/6-1.webp",
+            "images/products/category2-1/6-2.webp",
+            "images/products/category2-1/6-3.webp"
           ]
-          },
-          {
-            "name": "求婚/告白佈置03",
-            "price": "NT$35,000",
-            "category": "category2-1",
-            "id": "product2103",
-            "content": "【空飄】12吋空飄氣球束 (10顆一束) x2\n12吋乳膠空飄球 x20\n24吋波波球中球 x1\n【空氣】\n圓框氣球+仿真花藝  x1\n字母氣球敦 x1\nWell You Marry Me LED燈 x1\n兩側仿真花藝+LED燈條 x1\n此為套餐組合，含專人佈置進、撤場",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category2-1/3-1.webp",
-              "images/products/category2-1/3-2.webp",
-              "images/products/category2-1/3-3.webp"
-            ]
-          },
-          {
-            "name": "求婚/告白佈置04",
-            "price": "NT$14,800",
-            "category": "category2-1",
-            "id": "product2104",
-            "content": "【空飄】\n12吋 空飄氣球 x20\n18吋 波波球中球x2\n【空氣】\n10吋 地板氣氛球 x50\n框藝氣球鏈 x1\nMARRY ME字母燈 x1 \nLOVE大型字母燈 x1\n此為套餐組合，含專人佈置進、撤場",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category2-1/4-1.webp",
-              "images/products/category2-1/4-2.webp"
-            ]
-          },
-          {
-            "name": "求婚/告白佈置05",
-            "price": "NT$9,500",
-            "category": "category2-1",
-            "id": "product2105",
-            "content": "【空飄】\n18吋客製波波球 x1\n12吋空飄氣球 x10\n金燥架+紗\nMARRY ME燈飾\n粉系仿真花藝\n地面愛心花瓣+LED蜡燭燈\n此為套餐組合，含專人佈置進、撤場",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category2-1/5.webp"]
-          },
-          {
-            "name": "求婚/告白佈置06",
-            "price": "NT$16,000",
-            "category": "category2-1",
-            "id": "product2106",
-            "content": "【空飄】\n12吋空飄氣球 x20\n【空氣】\n立體氣球大愛心x1\n不規則氣球鏈 x1\n客製照片板 x1\nMarry Me背板 x1\nMarry Me LED燈 x1\n走道花瓣 x1\n此為套餐組合，含專人佈置進、撤場",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category2-1/6-1.webp",
-              "images/products/category2-1/6-2.webp",
-              "images/products/category2-1/6-3.webp"
-            ]
+        },
+        {
+          "name": "求婚/告白佈置05",
+          "price": "NT$9,500",
+          "category": "category2-1",
+          "id": "product2105",
+          "content": "【空飄】\n18吋客製波波球 x1\n12吋空飄氣球 x10\n金燥架+紗\nMARRY ME燈飾\n粉系仿真花藝\n地面愛心花瓣+LED蜡燭燈\n此為套餐組合，含專人佈置進、撤場",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": ["images/products/category2-1/5.webp"]
+        },
+        {
+          "name": "求婚/告白佈置04",
+          "price": "NT$14,800",
+          "category": "category2-1",
+          "id": "product2104",
+          "content": "【空飄】\n12吋 空飄氣球 x20\n18吋 波波球中球x2\n【空氣】\n10吋 地板氣氛球 x50\n框藝氣球鏈 x1\nMARRY ME字母燈 x1 \nLOVE大型字母燈 x1\n此為套餐組合，含專人佈置進、撤場",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": [
+            "images/products/category2-1/4-1.webp",
+            "images/products/category2-1/4-2.webp"
+          ]
+        },
+        {
+          "name": "求婚/告白佈置03",
+          "price": "NT$35,000",
+          "category": "category2-1",
+          "id": "product2103",
+          "content": "【空飄】12吋空飄氣球束 (10顆一束) x2\n12吋乳膠空飄球 x20\n24吋波波球中球 x1\n【空氣】\n圓框氣球+仿真花藝  x1\n字母氣球敦 x1\nWell You Marry Me LED燈 x1\n兩側仿真花藝+LED燈條 x1\n此為套餐組合，含專人佈置進、撤場",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": [
+            "images/products/category2-1/3-1.webp",
+            "images/products/category2-1/3-2.webp",
+            "images/products/category2-1/3-3.webp"
+          ]
+        },
+        {
+          "name": "求婚/告白佈置02",
+          "price": "NT$7,500",
+          "category": "category2-1",
+          "id": "product2102",
+          "content": "【空飄】\n18吋LED波波球 x6\n【空氣】\nMarry Me鋁箔球 x1\nLOVE鋁箔球 x1\n造型鋁箔氣球 x4\n地板球 x20\n地面愛心花瓣+LED蜡燭燈\n此套組合不含立柱氣球，含專人佈置進",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": [
+            "images/products/category2-1/2-1.gif",
+            "images/products/category2-1/2-2.jpg"
+          ]
+        },
+        {
+          "name": "求婚/告白佈置01",
+          "price": "NT$24,000",
+          "category": "category2-1",
+          "id": "product2101",
+          "content": "【空飄】\n空爆球 x2\n12吋空飄氣球 x40\n18吋LED鋁箔氣球 x2\n【空氣】\n立體氣球愛心 x1\n造型鋁箔球墩 x6\n地板球 x60\nMARRY ME燈飾\n地面愛心花瓣+LED蜡燭燈\n此為套餐組合，含專人佈置",
+          "notice": [
+            "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+            "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+            "商品請點確認後離開門市後不予保固。",
+            "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+            "若有未盡之處，本公司保留變更本內容細節之權利。",
+            "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+          ],
+          "img": [
+            "images/products/category2-1/1-1.jpg",
+            "images/products/category2-1/1-2.jpg"
+          ]
           }
         ]
       },
@@ -756,7 +758,23 @@
         "img": "images/products/category3-1/1-2.jpg",
         "children": [
           {
-            "name": "活動佈置01",
+            "name": "活動佈置19",
+            "category": "category3-1",
+            "id": "product3101",
+            "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category3-1/19.jpg"]
+          },
+          {
+            "name": "活動佈置18",
             "category": "category3-1",
             "id": "product3101",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -774,7 +792,7 @@
             ]
           },
           {
-            "name": "活動佈置02",
+            "name": "活動佈置17",
             "category": "category3-1",
             "id": "product3102",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -789,7 +807,7 @@
             "img": ["images/products/category3-1/2.jpg"]
           },
           {
-            "name": "活動佈置03",
+            "name": "活動佈置16",
             "category": "category3-1",
             "id": "product3103",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -804,7 +822,7 @@
             "img": ["images/products/category3-1/3.jpg"]
           },
           {
-            "name": "活動佈置04",
+            "name": "活動佈置15",
             "category": "category3-1",
             "id": "product3104",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -822,7 +840,7 @@
             ]
           },
           {
-            "name": "活動佈置05",
+            "name": "活動佈置14",
             "category": "category3-1",
             "id": "product3105",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -837,7 +855,7 @@
             "img": ["images/products/category3-1/5.webp"]
           },
           {
-            "name": "活動佈置06",
+            "name": "活動佈置13",
             "category": "category3-1",
             "id": "product3106",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -852,7 +870,7 @@
             "img": ["images/products/category3-1/6.webp"]
           },
           {
-            "name": "活動佈置07",
+            "name": "活動佈置12",
             "category": "category3-1",
             "id": "product3107",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -867,7 +885,7 @@
             "img": ["images/products/category3-1/7.jpg"]
           },
           {
-            "name": "活動佈置08",
+            "name": "活動佈置11",
             "category": "category3-1",
             "id": "product3108",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -885,7 +903,7 @@
             ]
           },
           {
-            "name": "活動佈置19",
+            "name": "活動佈置10",
             "category": "category3-1",
             "id": "product3109",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -905,7 +923,7 @@
             ]
           },
           {
-            "name": "活動佈置10",
+            "name": "活動佈置09",
             "category": "category3-1",
             "id": "product3110",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -920,7 +938,7 @@
             "img": ["images/products/category3-1/10.jpg"]
           },
           {
-            "name": "活動佈置11",
+            "name": "活動佈置08",
             "category": "category3-1",
             "id": "product3111",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -935,7 +953,7 @@
             "img": ["images/products/category3-1/11.jpg"]
           },
           {
-            "name": "活動佈置12",
+            "name": "活動佈置07",
             "category": "category3-1",
             "id": "product3112",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -950,7 +968,7 @@
             "img": ["images/products/category3-1/12.jpg"]
           },
           {
-            "name": "活動佈置13",
+            "name": "活動佈置06",
             "category": "category3-1",
             "id": "product3113",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -968,7 +986,7 @@
             ]
           },
           {
-            "name": "活動佈置14",
+            "name": "活動佈置05",
             "category": "category3-1",
             "id": "product3114",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -983,7 +1001,7 @@
             "img": ["images/products/category3-1/14.jpg"]
           },
           {
-            "name": "活動佈置15",
+            "name": "活動佈置04",
             "category": "category3-1",
             "id": "product3115",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -998,7 +1016,7 @@
             "img": ["images/products/category3-1/15.jpg"]
           },
           {
-            "name": "活動佈置16",
+            "name": "活動佈置03",
             "category": "category3-1",
             "id": "product3116",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -1013,7 +1031,7 @@
             "img": ["images/products/category3-1/16.jpg"]
           },
           {
-            "name": "活動佈置17",
+            "name": "活動佈置02",
             "category": "category3-1",
             "id": "product3117",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -1028,7 +1046,7 @@
             "img": ["images/products/category3-1/17.jpg"]
           },
           {
-            "name": "活動佈置18",
+            "name": "活動佈置01",
             "category": "category3-1",
             "id": "product3118",
             "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
@@ -1207,38 +1225,6 @@
         "id": "category5-1",
         "img": "images/products/category5-1/3.jpg",
         "children": [
-          {
-            "name": "氣球拱門(基本)",
-            "category": "category5-1",
-            "id": "product5101",
-            "price": "NT4,000~NT5,000",
-            "content": "顏色可替換\n6米拱門 4000元\n7米拱門 5000元",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category5-1/1.webp"]
-          },
-          {
-            "name": "鋁箔拱門(基本)",
-            "category": "category5-1",
-            "id": "product5102",
-            "price": "NT5,000~NT6,000",
-            "content": "顏色可替換\n6米拱門 5000元\n7米拱門 6000元",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category5-1/2.webp"]
-          },
           {
             "name": "氣球拱門(造型)01",
             "category": "category5-1",
@@ -1811,6 +1797,26 @@
               "images/products/category5-6/5-3.webp",
               "images/products/category5-6/5-4.webp"
             ]
+          },
+          {
+            "name": "桌上迎賓球（球中球款）",
+            "category": "category5-6",
+            "id": "product5606",
+            "price": "NT$1,100",
+            "content": "高45-50CM寬20-23CM\n不會飄\n含貼字",
+            "warning": "空飄波波球時效約3天，為確保氣球品質，建議活動當天取貨\n氣球為易破物品，環境與人為因素，可能導致氣球受傷\n凡商品離店後，恕不接受任何理由退貨",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category5-6/6-1.jpg",
+              "images/products/category5-6/6-2.jpg"
+            ]
           }
         ]
       },
@@ -2082,20 +2088,20 @@
   {
     "name": "生日系列",
     "id": "category7",
-    "img": "images/products/category7-1/1.webp",
+    "img": "images/products/category7-1/10.jpg",
     "children": [
       {
         "name": "生日派對",
         "id": "category7-1",
-        "img": "images/products/category7-1/1.webp",
+        "img": "images/products/category7-1/10.jpg",
         "children": [
           {
-            "name": "生日佈置01",
+            "name": "生日佈置10",
             "category": "category7-1",
-            "id": "product7101",
-            "price": "NT$32,000 ",
-            "content": "【 空飄 】\n 12吋 乳膠空飄氣球 x20\n 18吋 LED波波球 x6\n【 空氣 】\n 多層客製化設計背板 x1\n 超大型發光月亮氣球 x1\n 高質感汽球鏈 x2",
-            "warning": "",
+            "id": "product7110",
+            "price": "NT$40,000 ",
+            "content": "【空飄】\n  12 吋乳膠氣球 × 10\n  18 吋鋁箔氣球 × 2\n  40 吋數字鋁箔 × 1\n【空氣】\n  地面氣氛球 × 30\n  不規則氣球鏈 × 2\n【其它】\n  造型背板 × 4\n【需加購租借】\n  羅馬柱",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2104,146 +2110,15 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category7-1/1.webp"]
-          },
-          {
-            "name": "生日佈置02",
-            "category": "category7-1",
-            "id": "product7102",
-            "price": "NT$23,000 ",
-            "content": "【空飄】\n12吋乳膠空飄氣球x20\n24吋鋁箔氣球x1\n【空氣】\n10吋乳膠地板球x50\n客製化雨絲簾x2",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/2.jpg"]
-          },
-          {
-            "name": "生日佈置03",
-            "category": "category7-1",
-            "id": "product7103",
-            "price": "NT$35,000 ",
-            "content": "此價格不包含空飄氣球及造型鋁箔氣球，需另外加購",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/3.jpg"]
-          },
-          {
-            "name": "生日佈置04",
-            "category": "category7-1",
-            "id": "product7104",
-            "price": "NT$18,900 ",
-            "content": "【空飄】\n24吋韓式波波球+刻字x2\n【空氣】\n造型球鏈x2\n 不含圖中娃娃，娃娃需自備",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/4.jpg"]
-          },
-          {
-            "name": "生日佈置05",
-            "category": "category7-1",
-            "id": "product7105",
-            "price": "NT$9,500 ",
-            "content": "【空飄】\n12吋乳膠空飄氣球x20\n18吋LED波波球x8\n【空氣】\nHappyBirthday字母球x1\n18吋愛心x3\n10吋愛心x3\n床面愛心花瓣x1\nLED蠟燭燈x20\n地面氣氛球x40",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category7-1/5-1.webp",
-              "images/products/category7-1/5-2.webp"
-            ]
-          },
-          {
-            "name": "生日佈置06",
-            "category": "category7-1",
-            "id": "product7106",
-            "price": "NT$9,000 ",
-            "content": "【空飄】\n12吋乳膠空飄氣球x20\n12吋金屬印花乳膠空飄球x6\n18吋波波球+客製刻字x1\n18吋愛心鋁箔x4\n【空氣】\n16吋LED生日字母氣球x1\n10吋愛心鋁箔x6\n草寫love鋁箔x1\n10吋乳膠地上球x50\n愛心花瓣+走道花瓣x1\nLED蠟燭燈x50\n【不含圖中花束照片】",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category7-1/6-1.webp",
-              "images/products/category7-1/6-2.webp"
-            ]
-          },
-          {
-            "name": "生日佈置07",
-            "category": "category7-1",
-            "id": "product7107",
-            "price": "NT$7,500 ",
-            "content": "【空飄】\n12吋珠空飄x10\n12吋珠金屬空飄x5\n12吋大理石空飄x2\n18吋LED波波空飄x1\n【空氣】\n16吋生日字母氣球x1\n愛心造型氣球墩x1\n32吋造型數字氣球x2\nLED字母燈x1\n10吋地板球x30\n愛心花瓣x1",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category7-1/7.jpg",
-              "images/products/category7-1/7-1.jpg"
-            ]
-          },
-          {
-            "name": "生日佈置08",
-            "category": "category7-1",
-            "id": "product7108",
-            "price": "NT$5,500 ",
-            "content": "【 空飄 】\n 12吋金屬質感空飄氣球 x5\n 12吋珠光乳膠空飄氣球 x5\n【 空氣 】\n 金屬不規則氣球鏈200cm x1\n 生日單字拉旗 x1\n 40吋鋁箔數字 x2\n 【不含桌面道具】",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category7-1/8-1.webp",
-              "images/products/category7-1/8-2.webp"
-            ]
+            "img": ["images/products/category7-1/10.jpg"]
           },
           {
             "name": "生日佈置09",
             "category": "category7-1",
             "id": "product7109",
             "price": "NT$23,000 ",
-            "content": "【空飄】\n12吋空飄氣球x20 \n【空氣】\n造型球鏈\n巨型花x3\n地板球x40\n羅馬柱x3",
-            "warning": "",
+            "content": "【空飄】\n  12吋乳膠氣球×20\n  24吋鋁箔氣球×1\n【空氣】\n  不規則氣球鏈x2\n  10吋乳膠地板球×50\n【其它】\n  雨絲簾背景×2\n  錫紙禮物盒x1\n【需加購租借】\n  壓克力立柱",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2255,12 +2130,46 @@
             "img": ["images/products/category7-1/9.jpg"]
           },
           {
-            "name": "生日佈置10",
+            "name": "生日佈置08",
             "category": "category7-1",
-            "id": "product7110",
-            "price": "NT$18,500 ",
-            "content": "【空飄】\n18吋星星/愛心鋁箔氣球空飄x2\n12吋金屬球空飄x2\n12吋空飄x4\n24吋波波球空飄x1\n【空氣】\n30吋數字鋁箔氣球球墩x2\n巨大愛心x1\n30吋LOVE鋁箔氣球x1",
-            "warning": "",
+            "id": "product7108",
+            "price": "NT$9,500 ",
+            "content": "【空飄】\n  12吋乳膠氣球×40\n  12吋金屬氣球x2\n  18吋波波球（含貼字）x1\n  18吋鋁箔球x1\n【空氣】\n  生日字母串\n  造型鋁箔球墩x2\n  造形鋁箔x4\n  地面氣氛球x20",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category7-1/8.jpg"]
+          },
+          {
+            "name": "生日佈置07",
+            "category": "category7-1",
+            "id": "product7107",
+            "price": "NT$5,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球×30\n【空氣】\n  40吋字母鋁箔x3\n  24吋鋁箔x1\n  18吋鋁箔x2\n  10吋鋁箔x2\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category7-1/7.jpg"]
+          },
+          {
+            "name": "生日佈置06",
+            "category": "category7-1",
+            "id": "product7106",
+            "price": "NT$22,800 ",
+            "content": "【空飄】\n  12吋乳膠氣球×55\n  18吋Led波波球x6\n  18吋LED鋁箔球x2\n【空氣】\n  地面氣氛球×20\n  不規則氣球鏈×2\n【其它】\n  造型背板×1\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2270,17 +2179,68 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": [
-              "images/products/category7-1/10-1.jpg",
-              "images/products/category7-1/10-2.jpg"
-            ]
+                     "images/products/category7-1/6-1.jpg",
+                     "images/products/category7-1/6-2.jpg"
+                    ]
           },
           {
-            "name": "生日佈置11",
+            "name": "生日佈置05",
             "category": "category7-1",
-            "id": "product7111",
+            "id": "product7105",
+            "price": "NT$5,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球×20\n【空氣】\n  生日字母串\n  32吋數字球墩x2\n  地面氣氛球×20\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category7-1/5.jpg"]
+          },
+          {
+            "name": "生日佈置04",
+            "category": "category7-1",
+            "id": "product7104",
+            "price": "NT$32,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球×20\n【空氣】\n  24吋立柱波波球x1\n  地面氣氛球×20\n  不規則氣球鏈×1\n【其它】\n  風動亮片板x1\n  造型背板×1\n【需加購租借】\n  羅馬柱\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category7-1/4.jpg"]
+          },
+          {
+            "name": "生日佈置03",
+            "category": "category7-1",
+            "id": "product7103",
+            "price": "NT$9,480 ",
+            "content": "【空飄】\n  12吋乳膠氣球×30\n  18吋波波球（含貼字）x2\n  18吋鋁箔氣球x2\n【空氣】\n  生日字母串\n  造型鋁箔x4\n  地面氣氛球×30\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category7-1/3.jpg"]
+          },
+          {
+            "name": "生日佈置02",
+            "category": "category7-1",
+            "id": "product7102",
             "price": "NT$8,000 ",
-            "content": "【空飄】\n12吋空飄氣球x40 \n【空氣】\n生日字母串x1\n32吋數字鋁箔x2\n造型鋁箔x4\n地板球x30",
-            "warning": "",
+            "content": "【空飄】\n  12吋乳膠氣球×40\n【空氣】\n  生日字母串\n  造型鋁箔x4\n  數字鋁箔x2\n  地面氣氛球×30\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2289,15 +2249,15 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category7-1/11.jpg"]
+            "img": ["images/products/category7-1/2.jpg"]
           },
           {
-            "name": "生日佈置12",
+            "name": "生日佈置01",
             "category": "category7-1",
-            "id": "product7112",
-            "price": "NT$8,000 ",
-            "content": "【空飄】\n12吋空飄氣球x30\n空飄波波球x2 \n【空氣】\n生日字母串x1\n造型鋁箔x4\n地板球x30",
-            "warning": "",
+            "id": "product7101",
+            "price": "NT$18,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球 × 20\n【空氣】\n  地面氣氛球 × 30\n  不規則氣球鏈×2\n【其它】\n  巨型花 x3\n  仿真花\n【需加購租借】\n  羅馬柱\n",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2306,126 +2266,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category7-1/12.jpg"]
-          },
-          {
-            "name": "生日佈置13",
-            "category": "category7-1",
-            "id": "product7113",
-            "price": "NT$7,000 ",
-            "content": "【空飄】\n24吋金屬質感空飄(含球面貼字)x1\n12吋金屬質感空飄x10\n12吋金屬質感空飄束(3顆一束)x6\n【空氣】\n生日字母串x1\n造型鋁箔x7",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/13.jpg"]
-          },
-          {
-            "name": "生日佈置14",
-            "category": "category7-1",
-            "id": "product7114",
-            "price": "NT$21,000 ",
-            "content": "【空飄】\n12吋乳膠空飄氣球x60\n24吋波波球中球(含球面貼字)x2\n30吋鋁箔愛心x1\n24吋鋁箔愛心x1\n18吋LED波波球x4\n飛天鈔票/照片熱氣球x1(照片代洗)\n【空氣】\n生日字母串x1\n造型鋁箔x10\n地板球x30",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/14.jpg"]
-          },
-          {
-            "name": "生日佈置15",
-            "category": "category7-1",
-            "id": "product7115",
-            "price": "NT$9,300 ",
-            "content": "【空飄】\n18吋波波球中球(含客製貼字)x1\n18吋亮片波波球x1\n12吋空飄氣球x20\n12吋金屬空飄x10\n【空氣】\n生日字母串x1\n10吋乳膠地板球x50",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/15.jpg"]
-          },
-          {
-            "name": "生日佈置16",
-            "category": "category7-1",
-            "id": "product7116",
-            "price": "NT$33,000 ",
-            "content": "【空飄】\n12吋空飄*20\n12吋金屬空飄*10\n18吋空飄羽毛波波*2\n【空氣】\n造型球鏈x1\n10吋地上球*30\nHAPPY BIRTHDAY LED燈x1\n客製化背板設計",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/16.jpg"]
-          },
-          {
-            "name": "生日佈置17",
-            "category": "category7-1",
-            "id": "product7117",
-            "price": "NT$49,000 ",
-            "content": "【空飄】\n12吋空飄x20\n18吋波波球中球x3\n24吋亮片空飄波波x2\n【空氣】\n造型球鏈x2\n10吋地上球x30\nHAPPY BIRTHDAY LED燈x1\n客製化背板設計",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/17.jpg"]
-          },
-          {
-            "name": "生日佈置18",
-            "category": "category7-1",
-            "id": "product7118",
-            "price": "NT$21,000 ",
-            "content": "【空飄】\n12吋空飄x40\n12吋金屬空飄x20\n18吋亮片LED波波球*4\n24吋亮片空飄波波*2\n40吋數字鋁箔氣球x2\n18吋鋁箔氣球x2【空氣】\n生日字母串x1\n18吋鋁箔氣球x4\n10吋地上球*80",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/18.jpg"]
-          },
-          {
-            "name": "生日佈置19",
-            "category": "category7-1",
-            "id": "product7119",
-            "price": "NT$12,700 ",
-            "content": "【空飄】\n12吋空飄x10\n40吋數字鋁箔氣球x1\n【空氣】\n造型球鏈x1\n字母盒x4\n客製化背板設計",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category7-1/19.jpg"]
+            "img": ["images/products/category7-1/1.jpg"]
           }
         ]
       },
@@ -2537,159 +2378,22 @@
     ]
   },
   {
-    "name": "兒童派對",
+    "name": "抓周/兒童生日",
     "id": "category8",
-    "img": "images/products/category8-1/1-1.webp",
+    "img": "images/products/category8-1/7.jpg",
     "children": [
       {
-        "name": "收涎/抓周",
+        "name": "派對佈置",
         "id": "category8-1",
-        "img": "images/products/category8-1/1-1.webp",
+        "img": "images/products/category8-1/7.jpg",
         "children": [
           {
-            "name": "兒童派對佈置01",
+            "name": "兒童派對佈置12",
             "category": "category8-1",
-            "id": "product8101",
-            "price": "NT$4,500",
-            "content": "HAPPY 120 DAY / HAPPY BIRTHDAY 拉旗   x1\n12吋乳膠空飄氣球 x8\n1.5米不規則氣球鏈 x1\nBABY氣球盒 x1\n20吋氣球花 x2\n地面氣氛球 x10",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/1-1.webp",
-              "images/products/category8-1/1-2.webp"
-            ]
-          },
-          {
-            "name": "兒童派對佈置02",
-            "category": "category8-1",
-            "id": "product8102",
-            "price": "NT$7,000 ",
-            "content": "\n【 空飄 】\n12吋乳膠空飄氣球x7\n18吋流蘇空飄氣球x3\n18吋流蘇波波球中球(含球面貼字)x1\n40吋空飄數字x1\n小雛菊空飄波波球x2\n客製化生日掛布(120x90cm)x1",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category8-1/2.webp"]
-          },
-          {
-            "name": "兒童派對佈置03",
-            "category": "category8-1",
-            "id": "product8103",
-            "price": "NT$6,800",
-            "content": "【 空飄 】\n 12吋空飄氣球束(5顆一束)x2\n 12吋金屬質感空飄x2\n 12吋印花空飄x3\n 18吋波波印花球x1\n 造型鋁箔空飄x2\n【 空氣 】\n 生日字母拉旗x1\n 造型鋁箔氣球x1\n 地面氣氛球x10\n抓週道具組【此為租借道具，需自行歸還】",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category8-1/3.webp"]
-          },
-          {
-            "name": "兒童派對佈置04",
-            "category": "category8-1",
-            "id": "product8104",
-            "price": "NT$11,000",
-            "content": "【 空飄 】\n12吋空飄氣球束(5顆一束)x4\n12吋空飄氣球x10\n【 空氣 】\n3米不規則氣球鏈x1\n生日字母鋁箔氣球x1\n120cm客製化寶寶立牌x1\n抓週道具組【此為租借道具，需自行歸還】",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/4-1.webp",
-              "images/products/category8-1/4-2.webp"
-            ]
-          },
-          {
-            "name": "兒童派對佈置05",
-            "category": "category8-1",
-            "id": "product8105",
-            "price": "NT$22,000",
-            "content": "【 空飄 】\n18吋客製波波球x1\n【 空氣 】\n40吋數字氣球x1(空氣球)\n100cm不規則氣球鏈x1\n熱氣球氣球x1\n客製化背板220x100cmx1\n客製化背板100x200cmx1\n客製化寶寶立牌x1\n【以上佈置不含花藝】",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/5-1.webp",
-              "images/products/category8-1/5-2.webp",
-              "images/products/category8-1/5-3.webp"
-            ]
-          },
-          {
-            "name": "兒童派對佈置06",
-            "category": "category8-1",
-            "id": "product8106",
-            "price": "NT$17,000",
-            "content": "【 空飄 】\n12吋乳膠空飄氣球x10\n【 空氣 】\n2米不規則氣球鏈x1\n1.5米不規則氣球鏈x1\n主題造型氣球x2\n地面氣氛球x10\n星星背板-120x200cm\nOne背板-100x180cm\n抓週道具組(須歸還)\n聰明門、搖搖馬、帳篷(須歸還)\n不含客製人形立板、抓週猜測板",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/6-1.webp",
-              "images/products/category8-1/6-2.webp",
-              "images/products/category8-1/6-3.webp"
-            ]
-          },
-          {
-            "name": "兒童派對佈置07",
-            "category": "category8-1",
-            "id": "product8107",
-            "price": "NT$9,000",
-            "content": "【空飄】\n12吋空飄氣球x30\n18吋波波球中球(含球面貼字)x1\n18吋LED波波球x2\n【空氣】\nLED生日字母鋁箔氣球x1\n恐龍造型氣球x3\n數字氣球墩x1\n地面氣氛球x50",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/7-1.webp",
-              "images/products/category8-1/7-2.webp",
-              "images/products/category8-1/7-3.webp"
-            ]
-          },
-          {
-            "name": "兒童派對佈置08",
-            "category": "category8-1",
-            "id": "product8108",
+            "id": "product8112",
             "price": "NT$40,000",
-            "content": "造型球鏈x2\n地面氣氛球x20\n客製LED跑馬燈5米\n客製方形盒x5\n立體蝴蝶結",
-            "warning": "",
+            "content": "【空飄】\n  12 吋乳膠氣球 × 10\n  18 吋鋁箔氣球 × 2\n  40 吋數字鋁箔 × 1\n【空氣】\n  地面氣氛球 × 30\n  不規則氣球鏈 × 2\n【其它】\n  造型背板 × 4\n【需加購租借】\n  羅馬柱\n",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2698,52 +2402,15 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category8-1/8.jpg"]
-          },
-          {
-            "name": "兒童派對佈置09",
-            "category": "category8-1",
-            "id": "product8109",
-            "price": "NT$1,5000",
-            "content": "造型球鏈x2\n客製九宮格照片(須提供清晰照片輸出)",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category8-1/9.jpg"]
-          },
-          {
-            "name": "兒童派對佈置10",
-            "category": "category8-1",
-            "id": "product8110",
-            "price": "NT$1,7000",
-            "content": "\n客製背板\n造型球鏈x1\n抓週猜測板x1\n迎賓板x1\n不含租借道具及人形立牌",
-            "warning": "",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category8-1/10-1.jpg",
-              "images/products/category8-1/10-2.jpg"
-            ]
+            "img": ["images/products/category8-1/12.jpg"]
           },
           {
             "name": "兒童派對佈置11",
             "category": "category8-1",
             "id": "product8111",
-            "price": "NT$1,5000",
-            "content": "\n客製背板\n造型球鏈x1\n立牌球墩x3\n空飄氣球x20\n不含抓週道具",
-            "warning": "",
+            "price": "",
+            "content": "",
+            "warning": "請加官方line 洽詢",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2755,12 +2422,148 @@
             "img": ["images/products/category8-1/11.jpg"]
           },
           {
-            "name": "兒童派對佈置12",
+            "name": "兒童派對佈置10",
             "category": "category8-1",
-            "id": "product8112",
-            "price": "NT$2,3800",
-            "content": "\n客製背板\n造型球鏈x2\n空飄氣球x10\n仿真花x3\n不含抓週道具及羅馬柱",
-            "warning": "",
+            "id": "product8110",
+            "price": "NT$4,500",
+            "content": "【空飄】\n  12 吋乳膠空飄氣球 × 8\n【空氣】\n  不規則氣球鏈 × 1\n  20 吋氣球花 × 2\n  地面氣氛球 × 10\n【其它】\n  拉旗（二選一）：HAPPY 120 DAY 或 HAPPY BIRTHDAY\n  BABY 氣球盒 × 1",
+            "warning": "•本專案 不包含撤場服務",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/10.jpg"]
+          },
+          {
+            "name": "兒童派對佈置09",
+            "category": "category8-1",
+            "id": "product8109",
+            "price": "NT$5,480 ",
+            "content": "【空飄】\n  12 吋乳膠空飄氣球 × 10\n  造型鋁箔氣球 × 1\n【空氣】\n  不規則氣球鏈 × 1\n  20 吋氣球花 × 2\n  地面氣氛球 × 10\n  站立鋁箔氣球 × 1\n【其他】\n  蝴蝶結拉旗 × 1\n  BABY 氣球盒 × 1",
+            "warning": "本專案 不包含撤場服務。",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/9.jpg"]
+          },
+          {
+            "name": "兒童派對佈置08",
+            "category": "category8-1",
+            "id": "product8108",
+            "price": "NT$16,500",
+            "content": "【【空飄】\n  12 吋乳膠氣球 × 20\n【空氣】\n  立牌球墩 × 3\n  造型氣球鏈 × 1\n【其它】\n  造型背板 × 2\n【需加購租借】\n  抓周儀式組",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/8.jpg"]
+          },
+          {
+            "name": "兒童派對佈置07",
+            "category": "category8-1",
+            "id": "product8107",
+            "price": "NT$40,000",
+            "content": "【【空氣】\n  不規則氣球鏈 × 2\n  地面氣氛球 × 20\n【其它】\n  造型背板 × 3\n  LED 背板 × 1\n  客製方形盒 × 5",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/7.jpg"]
+          },
+          {
+            "name": "兒童派對佈置06",
+            "category": "category8-1",
+            "id": "product8106",
+            "price": "NT$18,800",
+            "content": "【空氣】\n  不規則氣球鏈 × 2\n【其它】\n  造型背板 × 1（九宮格照）",
+            "warning": "• 照片需更換為 寶寶大頭照系列，費用將另行報價\n• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/6.jpg"]
+          },
+          {
+            "name": "兒童派對佈置05",
+            "category": "category8-1",
+            "id": "product8105",
+            "price": "NT$20,000",
+            "content": "【空飄】\n  12吋乳膠氣球x8\n【空氣】\n  不規則氣球鏈 × 1\n【其他】\n  仿真花\n  造型背板 × 2\n  寶寶立板 x 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/5.jpg"]
+          },
+          {
+            "name": "兒童派對佈置04",
+            "category": "category8-1",
+            "id": "product8104",
+            "price": "NT$20,000",
+            "content": "【空氣】\n  不規則氣球鏈 × 1\n【其他】\n  造型背板 × 2\n  抓周猜測版 × 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/4.jpg"]
+          },
+          {
+            "name": "兒童派對佈置03",
+            "category": "category8-1",
+            "id": "product8103",
+            "price": "NT$1,7000",
+            "content": "【空飄】\n  12吋乳膠氣球x8\n【空氣】\n  不規則氣球鏈 × 2\n【其他】\n  造型背板 × 3\n【需加購租借】\n  抓周儀式組",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/3.jpg"]
+          },
+          {
+            "name": "兒童派對佈置02",
+            "category": "category8-1",
+            "id": "product8102",
+            "price": "NT$16,000",
+            "content": "【空飄】\n  18 吋波波球 × 2\n【空氣】\n  不規則氣球鏈 × 2\n【其他】\n  造型背板 × 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱 × 2",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2770,17 +2573,15 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": [
-              "images/products/category8-1/12-1.jpg",
-              "images/products/category8-1/12-2.jpg"
-            ]
+              "images/products/category8-1/2.jpg"]
           },
           {
-            "name": "兒童派對佈置13",
+            "name": "兒童派對佈置01",
             "category": "category8-1",
-            "id": "product8113",
-            "price": "NT$6,000",
-            "content": "\n客製背板\n造型球鏈x1\n空飄氣球x10\n抓週猜測板x1\n地板球x10\n不含道具",
-            "warning": "",
+            "id": "product8101",
+            "price": "NT$22,000",
+            "content": "【空飄】\n  12吋乳膠氣球 × 8\n【空氣】\n  不規則氣球鏈 × 2\n【其他】\n  造型背板 × 2\n  抓周猜測版 × 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱 × 2",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -2789,7 +2590,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category8-1/13.jpg"]
+            "img": ["images/products/category8-1/1.jpg"]
           }
         ]
       },
@@ -2915,7 +2716,7 @@
         ]
       },
       {
-        "name": "周邊道具",
+        "name": "專屬客製",
         "id": "category8-3",
         "img": "images/products/category8-3/2-1.webp",
         "children": [
@@ -2995,6 +2796,57 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": ["images/products/category8-3/4.jpg"]
+          },
+          {
+            "name": "迎賓板",
+            "category": "category8-3",
+            "id": "product8305",
+            "price": "NT800",
+            "content": "尺寸\n60x45cm",
+            "warning": "照片須提供清晰，避免模糊影響印刷品質\n設計輸出工作日3-5天(不含假日、國定假日)，請於五日前下訂",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-3/5.jpg"]
+          },
+          {
+            "name": "寶寶插旗",
+            "category": "category8-3",
+            "id": "product8306",
+            "price": "",
+            "content": "請洽官方LINE",
+            "warning": "照片須提供清晰，避免模糊影響印刷品質\n設計輸出工作日3-5天(不含假日、國定假日)，請於五日前下訂",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-3/6.jpg"]
+          },
+          {
+            "name": "寶寶派對水",
+            "category": "category8-3",
+            "id": "product8307",
+            "price": "",
+            "content": "請洽官方LINE",
+            "warning": "照片須提供清晰，避免模糊影響印刷品質\n設計輸出工作日3-5天(不含假日、國定假日)，請於五日前下訂",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-3/7.jpg"]
           }
         ]
       }
@@ -3003,20 +2855,54 @@
   {
     "name": "性別派對",
     "id": "category9",
-    "img": "images/products/category9-1/1.webp",
+    "img": "images/products/category9-1/3.jpg",
     "children": [
       {
         "name": "性別派對佈置",
         "id": "category9-1",
-        "img": "images/products/category9-1/1.webp",
+        "img": "images/products/category9-1/3.jpg",
         "children": [
+           {
+            "name": "性別派對佈置03",
+            "category": "category9-1",
+            "id": "product9103",
+            "price": "",
+            "content": "請洽官方LINE",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687\n\n• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category9-1/3.jpg"]
+          },
+           {
+            "name": "性別派對佈置02",
+            "category": "category9-1",
+            "id": "product9102",
+            "price": "NT$8,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球×10\n【空氣】\n  Baby字母盒\n  不規則氣球鏈x2\n  地板氣氛球×15\n  站立鋁箔氣球x2\n  造形鋁箔氣球x2\n【其它】\n  性別拉旗x1",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687\n\n• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category9-1/2.jpg"]
+          },
           {
             "name": "性別派對佈置01",
             "category": "category9-1",
             "id": "product9101",
-            "price": "NT$11,000 ",
-            "content": "【空飄】\n24吋性別爆破球x1\n【氣球】\n地面氣氛球x15\n不規則氣球鏈x1\nBABY氣球盒x1\n客製化背板設計200x110cm x1",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "price": "NT$12,000 ",
+            "content": "【空飄】\n  12吋乳膠氣球×8\n  18吋鋁箔氣球×10\n  18吋雙層波波球（含貼字）x1\n【空氣】\n  Baby字母盒\n  不規則氣球鏈x1\n  地板氣氛球×30\n【其它】\n  造形背板×1\n\n  此專案不含性別氣球",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687\n\n• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3025,79 +2911,42 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category9-1/1.webp"]
-          },
-          {
-            "name": "性別派對佈置02",
-            "category": "category9-1",
-            "id": "product9102",
-            "price": "NT$25,000 ",
-            "content": "【空飄】\n36吋性別爆破球x1\n【氣球】\n不規則氣球鏈200cm x1\n不規則氣球鏈150cm x1\n層次背板120x200cm x1\n層次背板120x170cm x1\n層次背板80x150cm x1\nBABY裝飾氣球盒\n性別猜測板",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category9-1/2-1.webp",
-              "images/products/category9-1/2-2.webp"
-            ]
-          },
-          {
-            "name": "性別派對佈置03",
-            "category": "category9-1",
-            "id": "product9103",
-            "price": "NT$7,500",
-            "content": "【空飄】\n24吋性別爆破球x1\n空飄氣球束(7顆一束)x2\n【氣球】\n地面氣氛球x15\n不規則氣球鏈x1\nBABY氣球盒x1\n性別猜測板(小款)",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": ["images/products/category9-1/3.webp"]
-          },
-          {
-            "name": "性別派對佈置04",
-            "category": "category9-1",
-            "id": "product9104",
-            "price": "NT$13,000",
-            "content": "【氣球】\n24吋性別爆破球x1\n熱氣球x1\n造型鋁箔x1\nBABY氣球盒x1\n藍粉木紋背板180x180cm x1\n【不含圖中娃娃】",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
-            "notice": [
-              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
-              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
-              "商品請點確認後離開門市後不予保固。",
-              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
-              "若有未盡之處，本公司保留變更本內容細節之權利。",
-              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
-            ],
-            "img": [
-              "images/products/category9-1/4-1.webp",
-              "images/products/category9-1/4-2.webp"
-            ]
+            "img": ["images/products/category9-1/1.jpg"]
           }
         ]
       },
       {
         "name": "揭曉氣球",
         "id": "category9-2",
-        "img": "images/products/category9-2/2-1.webp",
+        "img": "images/products/category9-2/2-1.jpg",
         "children": [
+          {
+            "name": "性別驚喜氣球『立柱款』03",
+            "category": "category9-2",
+            "id": "product9206",
+            "price": "NT3200",
+            "content": "36吋30顆小球、紙花\n球面貼紙如圖2挑選",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category9-2/6-1.jpg",
+              "images/products/category9-2/6-2.jpg"
+            ]
+          },
           {
             "name": "性別驚喜氣球『空飄款』",
             "category": "category9-2",
             "id": "product9201",
             "price": "NT1,850~NT2,500",
-            "content": "24吋20 顆小球、紙花 價錢NT1,850\n36吋30 顆小球、紙花 價錢NT2,500\n球面貼紙如圖2挑選",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "content": "24吋20顆小球、紙花 價錢NT1,850\n36吋30顆小球、紙花 價錢NT2,500\n球面貼紙如圖2挑選",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3108,16 +2957,16 @@
             ],
             "img": [
               "images/products/category9-2/1-1.jpg",
-              "images/products/category9-2/1-2.webp"
+              "images/products/category9-2/1-2.jpg"
             ]
           },
           {
-            "name": "性別驚喜氣球『立柱款』01",
+            "name": "性別驚喜氣球『立柱款』02",
             "category": "category9-2",
             "id": "product9202",
             "price": "NT1,100~NT2,500",
-            "content": "18吋紙花 價錢NT1,100\n24吋20 顆小球、紙花 價錢NT1,850\n36吋30 顆小球、紙花 價錢NT2,500\n球面貼紙如圖2挑選",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "content": "18吋紙花 價錢NT1,100\n24吋20顆小球、紙花 價錢NT1,850\n36吋30顆小球、紙花 價錢NT2,500\n球面貼紙如圖2挑選",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3128,16 +2977,16 @@
             ],
             "img": [
               "images/products/category9-2/4-1.jpg",
-              "images/products/category9-2/4-2.webp"
+              "images/products/category9-2/4-2.jpg"
             ]
           },
           {
-            "name": "性別驚喜氣球『立柱款』02",
+            "name": "性別驚喜氣球『立柱款』01",
             "category": "category9-2",
             "id": "product9203",
             "price": "NT1,600~NT3,000",
-            "content": "18吋紙花 價錢NT1,600\n24吋20 顆小球、紙花 價錢NT2,350\n36吋30 顆小球、紙花 價錢NT3,000\n球面貼紙如圖2挑選",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "content": "18吋紙花 價錢NT1,600\n24吋20顆小球、紙花 價錢NT2,350\n36吋30顆小球、紙花 價錢NT3,000\n球面貼紙如圖2挑選",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3148,16 +2997,16 @@
             ],
             "img": [
               "images/products/category9-2/5-1.jpg",
-              "images/products/category9-2/5-2.webp"
+              "images/products/category9-2/5-2.jpg"
             ]
           },
           {
             "name": "性別驚喜波波球『爆爆筒款』",
             "category": "category9-2",
             "id": "product9204",
-            "price": "NT1,500",
-            "content": "18吋雙層波波球\n含球面貼字、底座盒、戳針\n球面貼紙如圖2挑選",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "price": "NT1,850",
+            "content": "性別驚喜泡泡球（抱抱桶）\n20吋日本泡泡球\n含球面貼字、底座盒、戳針x1\n\n球面貼紙如圖2挑選",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3167,8 +3016,8 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": [
-              "images/products/category9-2/2-1.webp",
-              "images/products/category9-2/2-2.webp"
+              "images/products/category9-2/2-1.jpg",
+              "images/products/category9-2/2-2.jpg"
             ]
           },
           {
@@ -3177,7 +3026,7 @@
             "id": "product9205",
             "price": "NT600",
             "content": "5吋空飄氣球10顆\n   (氣球顏色依性別調整)\n盒子尺寸30x30x40cm",
-            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : iLove氣球佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -3189,6 +3038,35 @@
             "img": ["images/products/category9-2/3-1.gif"]
           }
         ]
+      },
+      {
+        "name": "性別揭曉周邊",
+        "id": "category9-3",
+        "img": "images/products/category9-3/1-1.jpg",
+        "children": [
+          {
+            "name": "孕期反應板×性別揭曉預測板",
+            "category": "category9-3",
+            "id": "product9301",
+            "price": "NT600",
+            "content": "單板售價：NT600\n單板尺寸：40×65cm\n揭曉預測板內含貼紙12張",
+            "warning": "",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+                    "images/products/category9-3/1-1.jpg",
+                    "images/products/category9-3/1-2.jpg",
+                    "images/products/category9-3/1-3.jpg",
+                    "images/products/category9-3/1-4.jpg"
+          ]
+          }
+        ]
       }
     ]
   },
@@ -3198,7 +3076,7 @@
     "img": "images/products/category10-1/1-1.jpg",
     "children": [
       {
-        "name": "派對佈置",
+        "name": "寵物佈置",
         "id": "category10-1",
         "img": "images/products/category10-1/1-1.jpg",
         "children": [
@@ -3269,8 +3147,8 @@
             "category": "category10-2",
             "id": "product10201",
             "price": "NT500~NT1,600",
-            "content": "立板尺寸\n30 CM-45 CM 500元\n45 CM-60 CM 800元\n60 CM-90 CM 1200元\n90 CM-120CM 1600元",
-            "warning": "照片須提供清晰，避免模糊影響印刷品質\n設計輸出工作日3-5天(不含假日、國定假日)，請於五日前下訂",
+            "content": "立板尺寸\n30CM-45CM 500元\n45CM-60CM 800元\n60CM-90CM 1200元\n90CM-120CM 1600元",
+            "warning": "免費去背一次（換圖另收150元）\n45公分以上無法7-11寄送\n價格以最大寬或高計算照片須提供清晰，避免模糊影響印刷品質\n設計輸出工作日3-5天(不含假日、國定假日)，請於五日前下訂",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
