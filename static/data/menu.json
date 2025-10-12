@@ -10,6 +10,25 @@
         "img": "images/products/category1-1/1.JPG",
         "children": [
           {
+            "name": "婚禮佈置30",
+            "category": "category1-1",
+            "id": "product1130",
+            "content": "背板尺寸:280 × 490 cm\n婚禮場地:萊特薇庭 Light Wedding\n\n專案內容包含\n\n1.拍照區背景\n2.收禮桌、相片桌（桌子由餐廳提供）\n3.客製 LOGO 設計\n4.現場燈光調整\n5.公版地貼、相框架擺設\n6.進場 & 撤場服務（晚宴撤場需加收非營業時間費用）\n7.背板設計客製圖稿\n（＊不含周邊道具與花藝模擬圖）\n\n注意事項\n\n1.停車費用請新人協助消磁\n2.雙北、桃園以外地區需另加收車馬費。\n3.背板尺寸可依需求調整，費用將依實際尺寸與設計內容另行報價。\n4.專案皆使用仿真花，如需更換為鮮花，將另行報價。\n5.收禮、相片桌子若需由我們額外提供，將多收NT$500。\n6.背板設計圖稿提供三次免費微調，超過次數將酌收每次 NT$300 修改費用。\n7.佈置道具如有毀損或遺失，將依實際情況酌收賠償費用。\n8.可另行加購其他客製化周邊（如立牌、迎賓板、桌旗等）。",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/30-1.jpg",
+                    "images/products/category1-1/30-2.jpg",
+                    "images/products/category1-1/30-3.jpg",
+                    "images/products/category1-1/30-4.jpg"
+          ]
+          },
+          {
             "name": "婚禮佈置29",
             "category": "category1-1",
             "id": "product1129",
@@ -46,10 +65,10 @@
             "img": ["images/products/category1-1/28.jpg"]
           },
           {
-            "name": "婚禮佈置27",
+           "name": "婚禮佈置27",
             "category": "category1-1",
             "id": "product1127",
-            "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
+            "content": "背板尺寸:240 × 360 cm\n婚禮場地:尚順君樂飯店\n\n專案內容包含\n\n1.拍照區背景\n2.收禮桌、相片桌（桌子由餐廳提供）\n3.客製 LOGO 設計\n4.現場燈光調整\n5.公版地貼、相框架擺設\n6.進場 & 撤場服務（晚宴撤場需加收非營業時間費用）\n7.背板設計客製圖稿\n（＊不含周邊道具與花藝模擬圖）\n\n注意事項\n\n1.停車費用請新人協助消磁\n2.雙北、桃園以外地區需另加收車馬費。\n3.背板尺寸可依需求調整，費用將依實際尺寸與設計內容另行報價。\n4.專案皆使用鮮花，如需更換為仿真花，將另行報價。\n5.收禮、相片桌子若需由我們額外提供，將多收NT$500。\n6.背板設計圖稿提供三次免費微調，超過次數將酌收每次 NT$300 修改費用。\n7.佈置道具如有毀損或遺失，將依實際情況酌收賠償費用。\n8.可另行加購其他客製化周邊（如立牌、迎賓板、桌旗等）。",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
               "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
@@ -73,7 +92,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/26.JPG"]
+            "img": ["images/products/category1-1/26.jpg"]
           },
           {
             "name": "婚禮佈置25",
@@ -103,10 +122,10 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/24.JPG"]
+            "img": ["images/products/category1-1/24.jpg"]
           },
           {
-            "name": "婚禮佈置023",
+            "name": "婚禮佈置23",
             "category": "category1-1",
             "id": "product1123",
             "content": "婚禮佈置由專人進撤場\n方案包含拍照區背景佈置、客製LOGO、收禮桌、相片桌、相框架\n依佈置需求報價\n請洽 LINE 帳號@520love",
@@ -118,7 +137,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/23.JPG"]
+            "img": ["images/products/category1-1/23.jpg"]
           },
           {
             "name": "婚禮佈置22",
@@ -226,8 +245,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": [
-              "images/products/category1-1/16.jpg"]
+            "img": ["images/products/category1-1/16.jpg"]
           },
           {
             "name": "婚禮佈置15",
@@ -382,7 +400,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/6.jpg"]
+            "img": ["images/products/category1-1/6.JPG"]
           },
           {
             "name": "婚禮佈置05",
@@ -412,7 +430,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/4.jpg"]
+            "img": ["images/products/category1-1/4.JPG"]
           },
           {
             "name": "婚禮佈置03",
@@ -457,7 +475,7 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category1-1/1.jpg"]
+            "img": ["images/products/category1-1/1.JPG"]
           }
         ]
       },
