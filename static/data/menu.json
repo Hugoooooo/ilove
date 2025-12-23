@@ -1066,6 +1066,60 @@
         "img": "images/products/category3-1/1-2.jpg",
         "children": [
           {
+            "name": "活動佈置23",
+            "category": "category3-1",
+            "id": "product3123",
+            "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+                    "images/products/category3-1/23-1.jpg",
+                    "images/products/category3-1/23-2.jpg"
+            ]
+          },
+          {
+            "name": "活動佈置22",
+            "category": "category3-1",
+            "id": "product3122",
+            "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+                    "images/products/category3-1/22-1.jpg",
+                    "images/products/category3-1/22-2.jpg"
+            ]
+          },
+          {
+            "name": "活動佈置21",
+            "category": "category3-1",
+            "id": "product3121",
+            "content": "預約企業活動佈置\n請先加入官方LINE詢問檔期@520love",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+                    "images/products/category3-1/21-1.jpg",
+                    "images/products/category3-1/21-2.jpg"
+            ]
+          },
+          {
             "name": "活動佈置20",
             "category": "category3-1",
             "id": "product3120",
@@ -2417,6 +2471,26 @@
         "id": "category7-1",
         "img": "images/products/category7-1/10.jpg",
         "children": [
+          {
+            "name": "生日佈置11",
+            "category": "category7-1",
+            "id": "product7111",
+            "price": "NT$7,500 ",
+            "content": "【空飄】\n  12 吋金屬氣球 × 35\n  24 吋金屬氣球(含貼字) × 1\n【空氣】\n  生日字母串\n  造型鋁箔氣球 x 8",
+            "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+                    "images/products/category7-1/11-1.jpg",
+                    "images/products/category7-1/11-2.jpg"
+            ]
+          },
           {
             "name": "生日佈置10",
             "category": "category7-1",
