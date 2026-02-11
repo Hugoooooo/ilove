@@ -1,6 +1,6 @@
 [
   {
-    "name": "婚禮系列",
+    "name": "婚禮佈置",
     "id": "category1",
     "img": "images/products/category1-1/1.JPG",
     "children": [
@@ -550,12 +550,12 @@
         ]
       },
       {
-        "name": "婚禮爆破球",
+        "name": "婚禮空爆球",
         "id": "category1-2",
         "img": "images/products/category1-2/3.jpg",
         "children": [
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1210",
             "content": "說明如圖二",
@@ -575,7 +575,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1209",
             "content": "說明如圖二",
@@ -594,7 +594,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1208",
             "content": "說明如圖二",
@@ -613,7 +613,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1207",
             "content": "說明如圖二",
@@ -632,7 +632,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1206",
             "content": "說明如圖二",
@@ -651,7 +651,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1205",
             "content": "說明如圖二",
@@ -670,7 +670,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1204",
             "content": "說明如圖二",
@@ -689,7 +689,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1203",
             "content": "說明如圖二",
@@ -708,7 +708,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1202",
             "content": "說明如圖二",
@@ -727,7 +727,7 @@
             ]
           },
           {
-            "name": "婚禮爆破球",
+            "name": "婚禮空爆球",
             "category": "category1-2",
             "id": "product1201",
             "content": "說明如圖二",
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "name": "求婚告白系列",
+    "name": "求婚告白佈置",
     "id": "category2",
     "img": "images/products/category2-1/1-1.jpg",
     "children": [
@@ -2633,12 +2633,12 @@
     ]
   },
   {
-    "name": "生日系列",
+    "name": "生日佈置",
     "id": "category7",
     "img": "images/products/category7-1/10.jpg",
     "children": [
       {
-        "name": "生日派對",
+        "name": "生日派對佈置",
         "id": "category7-1",
         "img": "images/products/category7-1/10.jpg",
         "children": [
@@ -2657,7 +2657,10 @@
               "若有未盡之處，本公司保留變更本內容細節之權利。",
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
-            "img": ["images/products/category7-1/12.jpg"]
+            "img": [
+              "images/products/category7-1/12-1.jpg",
+              "images/products/category7-1/12-2.jpg"
+            ]
           },
 
           {
@@ -2963,17 +2966,17 @@
     ]
   },
   {
-    "name": "抓周/兒童生日",
+    "name": "抓週佈置",
     "id": "category8",
     "img": "images/products/category8-1/7.jpg",
     "children": [
       {
-        "name": "派對佈置",
+        "name": "抓週派對佈置",
         "id": "category8-1",
         "img": "images/products/category8-1/7.jpg",
         "children": [
           {
-            "name": "兒童派對佈置17",
+            "name": "抓週派對佈置17",
             "category": "category8-1",
             "id": "product8117",
             "price": "NT$22,000",
@@ -2993,7 +2996,7 @@
             ]
           },
           {
-            "name": "兒童派對佈置16",
+            "name": "抓週派對佈置16",
             "category": "category8-1",
             "id": "product8116",
             "price": "NT$17,000",
@@ -3010,7 +3013,7 @@
             "img": ["images/products/category8-1/16.jpg"]
           },
           {
-            "name": "兒童派對佈置15",
+            "name": "抓週派對佈置15",
             "category": "category8-1",
             "id": "product8115",
             "price": "NT$16,000",
@@ -3027,7 +3030,7 @@
             "img": ["images/products/category8-1/15.jpg"]
           },
           {
-            "name": "兒童派對佈置14",
+            "name": "抓週派對佈置14",
             "category": "category8-1",
             "id": "product8114",
             "price": "NT$16,000",
@@ -3044,7 +3047,7 @@
             "img": ["images/products/category8-1/14.jpg"]
           },
           {
-            "name": "兒童派對佈置13",
+            "name": "抓週派對佈置13",
             "category": "category8-1",
             "id": "product8113",
             "price": "NT$16,800",
@@ -3061,7 +3064,7 @@
             "img": ["images/products/category8-1/13.jpg"]
           },
           {
-            "name": "兒童派對佈置12",
+            "name": "抓週派對佈置12",
             "category": "category8-1",
             "id": "product8112",
             "price": "NT$46,000",
@@ -3078,7 +3081,7 @@
             "img": ["images/products/category8-1/12.jpg"]
           },
           {
-            "name": "兒童派對佈置11",
+            "name": "抓週派對佈置11",
             "category": "category8-1",
             "id": "product8111",
             "price": "",
@@ -3095,7 +3098,7 @@
             "img": ["images/products/category8-1/11.jpg"]
           },
           {
-            "name": "兒童派對佈置10",
+            "name": "抓週派對佈置10",
             "category": "category8-1",
             "id": "product8110",
             "price": "NT$4,500",
@@ -3112,7 +3115,7 @@
             "img": ["images/products/category8-1/10.jpg"]
           },
           {
-            "name": "兒童派對佈置09",
+            "name": "抓週派對佈置09",
             "category": "category8-1",
             "id": "product8109",
             "price": "NT$5,480 ",
@@ -3129,7 +3132,7 @@
             "img": ["images/products/category8-1/9.jpg"]
           },
           {
-            "name": "兒童派對佈置08",
+            "name": "抓週派對佈置08",
             "category": "category8-1",
             "id": "product8108",
             "price": "NT$18,500",
@@ -3146,7 +3149,7 @@
             "img": ["images/products/category8-1/8.jpg"]
           },
           {
-            "name": "兒童派對佈置07",
+            "name": "抓週派對佈置07",
             "category": "category8-1",
             "id": "product8107",
             "price": "NT$46,000",
@@ -3163,7 +3166,7 @@
             "img": ["images/products/category8-1/7.jpg"]
           },
           {
-            "name": "兒童派對佈置06",
+            "name": "抓週派對佈置06",
             "category": "category8-1",
             "id": "product8106",
             "price": "NT$19,800",
@@ -3180,7 +3183,7 @@
             "img": ["images/products/category8-1/6.jpg"]
           },
           {
-            "name": "兒童派對佈置05",
+            "name": "抓週派對佈置05",
             "category": "category8-1",
             "id": "product8105",
             "price": "NT$20,000",
@@ -3197,7 +3200,7 @@
             "img": ["images/products/category8-1/5.jpg"]
           },
           {
-            "name": "兒童派對佈置04",
+            "name": "抓週派對佈置04",
             "category": "category8-1",
             "id": "product8104",
             "price": "NT$22,000",
@@ -3214,7 +3217,7 @@
             "img": ["images/products/category8-1/4.jpg"]
           },
           {
-            "name": "兒童派對佈置03",
+            "name": "抓週派對佈置03",
             "category": "category8-1",
             "id": "product8103",
             "price": "NT$15,000",
@@ -3231,7 +3234,7 @@
             "img": ["images/products/category8-1/3.jpg"]
           },
           {
-            "name": "兒童派對佈置02",
+            "name": "抓週派對佈置02",
             "category": "category8-1",
             "id": "product8102",
             "price": "NT$17,000",
@@ -3248,7 +3251,7 @@
             "img": ["images/products/category8-1/2.jpg"]
           },
           {
-            "name": "兒童派對佈置01",
+            "name": "抓週派對佈置01",
             "category": "category8-1",
             "id": "product8101",
             "price": "NT$22,000",
