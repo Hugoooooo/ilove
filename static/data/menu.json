@@ -3051,16 +3051,53 @@
     "img": "images/products/category8-1/7.jpg",
     "children": [
       {
-        "name": "抓週派對佈置",
+        "name": "抓週佈置",
         "id": "category8-1",
         "img": "images/products/category8-1/7.jpg",
         "children": [
           {
-            "name": "抓週派對佈置17",
+            "name": "滿月派對佈置19",
+            "category": "category8-1",
+            "id": "product8119",
+            "price": "NT$24,000",
+            "content": "【空氣】\n  2米不規則氣球鏈×1\n  1.5米不規則氣球鏈 x 1\n【背板】\n  200*240 × 1 \n【其它】\n  大型BABY燈 x 1  ",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category8-1/19.jpg"]
+          },
+          {
+            "name": "滿月派對佈置18",
+            "category": "category8-1",
+            "id": "product8118",
+            "price": "NT$58,000",
+            "content": "【空氣】\n  2米不規則氣球鏈 × 1\n  2米瀑布氣球鏈 x 1\n【背板】\n  190*105 × 1\n  210*230 x 1 \n  190*85 x 1 \n  180*98 x 1 \n  LED雲朵 140*100 x 1 \n  立體方盒 x 4 \n  造型小板 x 3  \n 【其它】\n  招牌大花 × 3 \n  仿真地花 × 4  ",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category8-1/18-1.jpg",
+              "images/products/category8-1/18-2.jpg"
+            ]
+          },
+          {
+            "name": "滿月派對佈置17",
             "category": "category8-1",
             "id": "product8117",
             "price": "NT$22,000",
-            "content": "【空氣】\n  不規則氣球鏈×2\n【其它】\n  造型背板 × 2  ",
+            "content": "【空氣】\n  2米不規則氣球鏈 × 2\n【背板】\n  200*240 × 1 \n  100*100 x 1 \n  造型板 x 1  ",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -3079,8 +3116,8 @@
             "name": "抓週派對佈置16",
             "category": "category8-1",
             "id": "product8116",
-            "price": "NT$17,000",
-            "content": "【其它】\n  背板 × 1 \n  招牌大花 × 7\n  仿真地花 x 2 \n【需加購租借】\n  餐椅澎裙 ",
+            "price": "NT$20,000",
+            "content": "【背板】\n  190*150 × 1  \n【其他】\n  招牌大花 x 7 \n  仿真地花 x 2 \n【需加購租借】\n  餐椅澎裙 ",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -3097,7 +3134,7 @@
             "category": "category8-1",
             "id": "product8115",
             "price": "NT$16,000",
-            "content": "【空氣】\n  不規則氣球鏈×2\n【其它】\n  立體造型背板×1 \n  立牌×2 \n【需加購租借】\n  羅馬柱\n  抓週儀式組\n  虎衣組",
+            "content": "【空氣】\n  2米不規則氣球鏈 × 1 \n  1米不規則氣球鏈 x 1\n【立體背板】\n  200*110 × 1 \n  造型版  ×2 \n【需加購租借】\n  羅馬柱\n  抓週儀式組\n  虎衣組",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
@@ -3178,7 +3215,7 @@
             "img": ["images/products/category8-1/11.jpg"]
           },
           {
-            "name": "抓週派對佈置10",
+            "name": "收涎派對佈置10",
             "category": "category8-1",
             "id": "product8110",
             "price": "NT$4,500",
@@ -3229,7 +3266,7 @@
             "img": ["images/products/category8-1/8.jpg"]
           },
           {
-            "name": "抓週派對佈置07",
+            "name": "滿月派對佈置07",
             "category": "category8-1",
             "id": "product8107",
             "price": "NT$46,000",
@@ -3246,7 +3283,7 @@
             "img": ["images/products/category8-1/7.jpg"]
           },
           {
-            "name": "抓週派對佈置06",
+            "name": "滿月派對佈置06",
             "category": "category8-1",
             "id": "product8106",
             "price": "NT$19,800",
@@ -3334,8 +3371,8 @@
             "name": "抓週派對佈置01",
             "category": "category8-1",
             "id": "product8101",
-            "price": "NT$22,000",
-            "content": "【空飄】\n  12吋乳膠氣球 × 8\n【空氣】\n  不規則氣球鏈 × 2\n【其他】\n  造型背板 × 2\n  抓周猜測版 × 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱 × 2",
+            "price": "NT$20000",
+            "content": "【空飄】\n  12吋乳膠氣球 × 8\n【空氣】\n  2米不規則氣球鏈 × 1 \n  80公分不規則氣球鏈 x 1\n【背板】\n  190*190 × 1\n  200*110 x 1\n  公版抓周猜測版 × 1\n【需加購租借】\n  抓周儀式組\n  羅馬柱 × 2",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
               "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
