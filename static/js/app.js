@@ -274,23 +274,88 @@
         })
     }
 
-    $(document).ready(function() {
+  $(document).ready(function() {
         // Page Loader
         setTimeout(function () {
             $('.page-preloader').fadeOut();
             click_button_mobile_menu();
             load_mobile_menu();
 
-            // Slick Slider
-            $('.slick-sliders').each(function () {
-                load_slick_carousel($(this));
-                // slide_check_nav_slick($(this));
-            });
+            // --- 🚀 【花禾佈置：全自動 SEO 掃描引擎 - 標籤+背景圖全能版】 ---
+            function run_flower_seo() {
+                var url = window.location.href;
+                var isIndex = window.location.pathname.indexOf('index.html') > -1 || window.location.pathname == '/' || window.location.pathname == '';
 
-            // Shop Details
-            $('.shop-details .slick-carousel').each(function() {
-                load_slick_carousel($(this));
-            });
+                // 1. 處理首頁
+                if (isIndex) {
+                    document.title = "花禾空間佈置 - 婚禮佈置｜氣球派對｜性別派對｜抓周佈置";
+                    var homeDesc = "花禾空間佈置提供專業婚禮設計、氣球派對、性別派對與抓周佈置。服務範圍涵蓋新北、台北、桃園、新竹地區，為您客製專屬活動氛圍。";
+                    $('meta[name="description"]').attr('content', homeDesc);
+                    $('meta[property="og:description"]').attr('content', homeDesc);
+                    return;
+                }
+
+                // 2. 自動抓取標題 (相容各頁面)
+                var possibleTitles = $('h1, h2, .title, .section-title, .breadcrumb li.active, .breadcrumb span:last-child');
+                var foundTitle = "";
+                possibleTitles.each(function() {
+                    var txt = $(this).text().trim();
+                    if (txt && txt !== "商品分類表" && txt !== "商品介紹" && txt !== "首頁" && txt !== "SHOP") {
+                        foundTitle = txt;
+                        return false; 
+                    }
+                });
+
+                if (foundTitle) {
+                    var finalTitle = "";
+                    if (url.indexOf('product.html') > -1) {
+                        finalTitle = foundTitle + " - 花禾專業婚禮氣球派對";
+                    } else if (url.indexOf('group.html') > -1) {
+                        finalTitle = foundTitle + "專案系列 | 專業活動設計 - 花禾空間佈置";
+                    } else if (url.indexOf('product-list.html') > -1) {
+                        finalTitle = foundTitle + "推薦 | 派對活動專用 - 花禾空間佈置";
+                    } else {
+                        finalTitle = foundTitle + " | 花禾空間佈置";
+                    }
+                    document.title = finalTitle;
+
+                    // --- 🌟 【終極修正】同時處理 <img> 與 .square-img (背景圖) ---
+                    // 掃描全頁面圖片標籤與背景圖容器
+                    $('img, .square-img, .bg-img').each(function() {
+                        var $this = $(this);
+                        var isImgTag = $this.is('img');
+                        var style = $this.attr('style') || "";
+                        var imgSrc = isImgTag ? ($this.attr('src') || "") : style;
+
+                        // 只要路徑包含 products (代表作品圖)，就強制補上 SEO 註解
+                        if (imgSrc.indexOf('products') > -1) {
+                            var seoText = foundTitle + " - 花禾專業婚禮氣球派對設計作品";
+                            
+                            if (isImgTag) {
+                                // 處理一般圖片標籤
+                                $this.attr('alt', seoText);
+                            } else {
+                                // 處理背景圖 (如 .square-img)：使用 aria-label 讓 Google 讀得到
+                                $this.attr('aria-label', seoText);
+                                $this.attr('role', 'img'); 
+                            }
+                            $this.attr('title', foundTitle + " | 花禾佈置");
+                        }
+                    });
+                }
+            }
+
+            // 啟動巡邏機制：每 0.5 秒修正一次，共 10 次
+            var retry = 0;
+            var seoInterval = setInterval(function() {
+                run_flower_seo();
+                retry++;
+                if (retry > 10) clearInterval(seoInterval);
+            }, 500);
+
+            // --- 原本的插件載入 ---
+            $('.slick-sliders').each(function () { load_slick_carousel($(this)); });
+            $('.shop-details .slick-carousel').each(function() { load_slick_carousel($(this)); });
             product_single_image();
 
         }, 1500);

@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>商品介紹頁-花禾空間佈置</title>
-    <meta name="description" content="氣球派對、婚禮佈置｜性別派對、收涎抓周｜空飄氣球、爆破氣球｜永生花禮、鈔票花禮">
+    <title>花禾空間佈置 - 專業婚禮佈置｜氣球派對｜花藝設計</title>
+    <meta name="description" :content="productInfo.name + ' | 花禾佈置提供專業婚禮、氣球、派對設計。服務包含：性別派對、抓周佈置、永生花禮。服務範圍新北、台北、桃園、新竹地區'">
     <meta itemprop="name" content="商品介紹頁-花禾空間佈置">
     <meta itemprop="description" content="氣球派對、婚禮佈置｜性別派對、收涎抓周｜空飄氣球、爆破氣球｜永生花禮、鈔票花禮">
     <meta name="keywords" content="氣球佈置,婚禮佈置,生日派對,性別派對,收涎抓周,空飄氣球,爆破氣球,永生花,鈔票花,花藝設計,氣球牆,花禮,客製化佈置,新北花藝,台北佈置,新北佈置,樹林佈置">
@@ -135,14 +135,27 @@
                           </div>
                         </div>
                         <div class="col-md-10">
-                          <div class="scroll-image main-image">
-                            <div class="image-additional slick-carousel" data-asnavfor=".image-thumbnail" data-fade="true" data-columns4="1" data-columns3="1" data-columns2="1" data-columns1="1" data-columns="1" data-nav="true">
-                              <template v-for="img in productInfo.img">
-                                <div class="img-item slick-slide"><img width="900" height="900" :src="img" title="" alt="花禾空間佈置-商品圖"></div>
-                              </template>
-                            </div>
-                          </div>
-                        </div>
+  <div class="scroll-image main-image">
+    <!-- 保留原本的 data 屬性設定 -->
+    <div class="image-additional slick-carousel" 
+         data-asnavfor=".image-thumbnail" 
+         data-fade="true" 
+         data-columns4="1" data-columns3="1" data-columns2="1" data-columns1="1" data-columns="1" 
+         data-nav="true">
+      
+      <template v-for="img in productInfo.img">
+        <div class="img-item slick-slide">
+          <!-- 關鍵修改：將 alt 改成動態抓取產品名稱 -->
+          <img width="900" height="900" 
+               :src="img" 
+               :title="productInfo.name" 
+               :alt="'花禾佈置 - ' + productInfo.name + ' - 婚禮氣球派對-設計案例'">
+        </div>
+      </template>
+      
+    </div>
+  </div>
+</div>
                       </div>
                     </div>
                     <div class="product-info col-lg-5 col-md-12 col-12">
