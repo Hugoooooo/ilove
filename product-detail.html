@@ -39,6 +39,9 @@
   <!--html body-->
   <body class="home home-15 title-15">
     <div id="app">
+      <h1 style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;">
+  {{productInfo.name}}｜花禾空間佈置：台北新北專業婚禮佈置、性別抓週生日佈置實際分享案例
+</h1>
       <div class="hfeed page-wrapper" id="page">
         <header class="site-header header-v4" id="site-header">
           <div class="header-mobile">
@@ -124,42 +127,37 @@
                       <div class="breadcrumbs pb-5"><a :href="`group.html?group=${productInfo.group}`">{{productInfo.groupName}}</a><span class="delimiter"></span><a :href="`product-list.html?category=${productInfo.category}`">{{productInfo.categoryName}}</a><span class="delimiter"></span><span>{{productInfo.name}}</span></div>
                     </div>
                     <div class="product-images col-lg-7 col-md-12 col-12">
-                      <div class="row">
-                        <div class="col-md-2">
-                          <div class="content-thumbnail-scroll">
-                            <div class="image-thumbnail slick-carousel slick-vertical" data-asnavfor=".image-additional" data-centermode="true" data-focusonselect="true" data-columns4="5" data-columns3="4" data-columns2="4" data-columns1="4" data-columns="4" data-nav="true" data-vertical="&quot;true&quot;" data-verticalswiping="&quot;true&quot;">
-                              <template v-for="img in productInfo.img">
-                                <div class="img-item slick-slide"><span class="img-thumbnail-scroll"><img width="600" height="600" :src="img" alt="花禾空間佈置-商品圖"></span></div>
-                              </template>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-md-10">
-  <div class="scroll-image main-image">
-    <!-- 保留原本的 data 屬性設定 -->
-    <div class="image-additional slick-carousel" 
-         data-asnavfor=".image-thumbnail" 
-         data-fade="true" 
-         data-columns4="1" data-columns3="1" data-columns2="1" data-columns1="1" data-columns="1" 
-         data-nav="true">
-      
-      <template v-for="img in productInfo.img">
-        <div class="img-item slick-slide">
-          <!-- 關鍵修改：將 alt 改成動態抓取產品名稱 -->
-          <img width="900" height="900" 
-               :src="img" 
-               :title="productInfo.name" 
-               :alt="'花禾佈置 - ' + productInfo.name + ' - 婚禮氣球派對-設計案例'">
+  <div class="row">
+    <div class="col-md-2">
+      <div class="content-thumbnail-scroll">
+        <div class="image-thumbnail slick-carousel slick-vertical" data-asnavfor=".image-additional" data-centermode="true" data-focusonselect="true" data-columns4="5" data-columns3="4" data-columns2="4" data-columns1="4" data-columns="4" data-nav="true" data-vertical="&quot;true&quot;" data-verticalswiping="&quot;true&quot;">
+          <!-- 1. 小圖縮圖區 -->
+          <template v-for="img in productInfo.img">
+            <div class="img-item slick-slide">
+              <span class="img-thumbnail-scroll">
+                <img width="600" height="600" :src="img" :title="productInfo.name" alt="花禾空間佈置案例分享">
+              </span>
+            </div>
+          </template>
         </div>
-      </template>
-      
+      </div>
+    </div>
+    <div class="col-md-10">
+      <div class="scroll-image main-image">
+        <div class="image-additional slick-carousel" data-asnavfor=".image-thumbnail" data-fade="true" data-columns4="1" data-columns3="1" data-columns2="1" data-columns1="1" data-columns="1" data-nav="true">
+          <!-- 2. 主要大圖區 -->
+          <template v-for="img in productInfo.img">
+            <div class="img-item slick-slide">
+              <img width="900" height="900" :src="img" :title="productInfo.name" alt="花禾空間佈置案例分享">
+            </div>
+          </template>
+        </div>
+      </div>
     </div>
   </div>
 </div>
-                      </div>
-                    </div>
                     <div class="product-info col-lg-5 col-md-12 col-12">
-                      <h1 class="title">{{productInfo.name}}</h1><span class="price" v-if="productInfo.price">{{productInfo.price}}</span>
+                      <h2 class="title">{{productInfo.name}}</h2><span class="price" v-if="productInfo.price">{{productInfo.price}}</span>
                       <p class="description mb-0" v-html="productInfo.content"></p><a class="button2 mt-5" href="https://lin.ee/QRqkPc3" target="_blank">立即訂購</a>
                       <div class="product-meta py-5" v-if="productInfo.notice &amp;&amp; productInfo.notice.length &gt; 0">
                         <div class="mb-5" v-if="productInfo.warning">
