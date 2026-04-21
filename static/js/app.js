@@ -274,91 +274,87 @@
         })
     }
 
-  $(document).ready(function() {
-        // Page Loader
-        setTimeout(function () {
-            $('.page-preloader').fadeOut();
-            click_button_mobile_menu();
-            load_mobile_menu();
+$(document).ready(function() {
+    // Page Loader
+    setTimeout(function () {
+        $('.page-preloader').fadeOut();
+        click_button_mobile_menu();
+        load_mobile_menu();
 
-            // --- 🚀 【花禾佈置：全自動 SEO 掃描引擎 - 標籤+背景圖全能版】 ---
-            function run_flower_seo() {
-                var url = window.location.href;
-                var isIndex = window.location.pathname.indexOf('index.html') > -1 || window.location.pathname == '/' || window.location.pathname == '';
+        // --- 🚀 【花禾佈置：精簡優化版 SEO 引擎】 ---
+        function run_flower_seo() {
+            var url = window.location.href;
+            var path = window.location.pathname;
+            var isIndex = path.indexOf('index.html') > -1 || path == '/' || path == '';
 
-                // 1. 處理首頁
-                if (isIndex) {
-                    document.title = "花禾空間佈置 - 婚禮佈置｜氣球派對｜性別派對｜抓周佈置";
-                    var homeDesc = "花禾空間佈置提供專業婚禮設計、氣球派對、性別派對與抓周佈置。服務範圍涵蓋新北、台北、桃園、新竹地區，為您客製專屬活動氛圍。";
-                    $('meta[name="description"]').attr('content', homeDesc);
-                    $('meta[property="og:description"]').attr('content', homeDesc);
-                    return;
-                }
-
-                // 2. 自動抓取標題 (相容各頁面)
-                var possibleTitles = $('h1, h2, .title, .section-title, .breadcrumb li.active, .breadcrumb span:last-child');
-                var foundTitle = "";
-                possibleTitles.each(function() {
-                    var txt = $(this).text().trim();
-                    if (txt && txt !== "商品分類表" && txt !== "商品介紹" && txt !== "首頁" && txt !== "SHOP") {
-                        foundTitle = txt;
-                        return false; 
-                    }
-                });
-
-                if (foundTitle) {
-                    var finalTitle = "";
-                    if (url.indexOf('product.html') > -1) {
-                        finalTitle = foundTitle + " - 花禾專業婚禮氣球派對";
-                    } else if (url.indexOf('group.html') > -1) {
-                        finalTitle = foundTitle + "專案系列 | 專業活動設計 - 花禾空間佈置";
-                    } else if (url.indexOf('product-list.html') > -1) {
-                        finalTitle = foundTitle + "推薦 | 派對活動專用 - 花禾空間佈置";
-                    } else {
-                        finalTitle = foundTitle + " | 花禾空間佈置";
-                    }
-                    document.title = finalTitle;
-
-                    // --- 🌟 【終極修正】同時處理 <img> 與 .square-img (背景圖) ---
-                    // 掃描全頁面圖片標籤與背景圖容器
-                    $('img, .square-img, .bg-img').each(function() {
-                        var $this = $(this);
-                        var isImgTag = $this.is('img');
-                        var style = $this.attr('style') || "";
-                        var imgSrc = isImgTag ? ($this.attr('src') || "") : style;
-
-                        // 只要路徑包含 products (代表作品圖)，就強制補上 SEO 註解
-                        if (imgSrc.indexOf('products') > -1) {
-                            var seoText = foundTitle + " - 花禾專業婚禮氣球派對設計作品";
-                            
-                            if (isImgTag) {
-                                // 處理一般圖片標籤
-                                $this.attr('alt', seoText);
-                            } else {
-                                // 處理背景圖 (如 .square-img)：使用 aria-label 讓 Google 讀得到
-                                $this.attr('aria-label', seoText);
-                                $this.attr('role', 'img'); 
-                            }
-                            $this.attr('title', foundTitle + " | 花禾佈置");
-                        }
-                    });
-                }
+            // 1. 處理首頁：鎖定最強關鍵字
+            if (isIndex) {
+                document.title = "花禾空間佈置｜新北台北婚禮佈置、抓週佈置、性別派對、生日氣球派對規劃首選";
+                var homeDesc = "花禾空間佈置提供專業婚禮設計、氣球派對、性別派對與抓週佈置。服務範圍涵蓋新北、台北、桃園地區，為您客製化質感活動氛圍。";
+                $('meta[name="description"]').attr('content', homeDesc);
+                $('meta[property="og:description"]').attr('content', homeDesc);
+                return;
             }
 
-            // 啟動巡邏機制：每 0.5 秒修正一次，共 10 次
-            var retry = 0;
-            var seoInterval = setInterval(function() {
-                run_flower_seo();
-                retry++;
-                if (retry > 10) clearInterval(seoInterval);
-            }, 500);
+            // 2. 自動抓取標題 (相容各頁面)
+            var possibleTitles = $('h1, h2, .title, .section-title, .breadcrumb li.active, .breadcrumb span:last-child');
+            var foundTitle = "";
+            possibleTitles.each(function() {
+                var txt = $(this).text().trim();
+                // 過濾掉系統無意義字眼
+                if (txt && !/商品分類表|商品介紹|首頁|SHOP|MENU/i.test(txt)) {
+                    foundTitle = txt;
+                    return false; 
+                }
+            });
 
-            // --- 原本的插件載入 ---
-            $('.slick-sliders').each(function () { load_slick_carousel($(this)); });
-            $('.shop-details .slick-carousel').each(function() { load_slick_carousel($(this)); });
-            product_single_image();
+            if (foundTitle) {
+                // 防止標題重複疊加「花禾空間佈置」
+                var finalTitle = foundTitle;
+                if (foundTitle.indexOf('花禾') === -1) {
+                    finalTitle = foundTitle + "｜花禾空間佈置 - 台北新北派對設計";
+                }
+                document.title = finalTitle;
 
-        }, 1500);
+                // --- 🌟 【圖片與背景圖優化】瘦身版 ---
+                $('img, .square-img, .bg-img').each(function() {
+                    var $this = $(this);
+                    var isImgTag = $this.is('img');
+                    var style = $this.attr('style') || "";
+                    var imgSrc = isImgTag ? ($this.attr('src') || "") : style;
+
+                    // 針對產品圖進行優化
+                    if (imgSrc.indexOf('products') > -1) {
+                        // 僅抓取「｜」前面的主要產品名稱，避免 Alt 過長
+                        var shortTitle = foundTitle.split('｜')[0];
+                        var seoText = shortTitle + "｜花禾空間佈置案例分享";
+                        
+                        if (isImgTag) {
+                            $this.attr('alt', seoText);
+                        } else {
+                            $this.attr('aria-label', seoText);
+                            $this.attr('role', 'img'); 
+                        }
+                        $this.attr('title', shortTitle + " | 花禾空間佈置");
+                    }
+                });
+            }
+        }
+
+        // 啟動巡邏機制：每 0.5 秒修正一次，共 10 次
+        var retry = 0;
+        var seoInterval = setInterval(function() {
+            run_flower_seo();
+            retry++;
+            if (retry > 10) clearInterval(seoInterval);
+        }, 500);
+
+        // --- 原本的插件載入 ---
+        $('.slick-sliders').each(function () { load_slick_carousel($(this)); });
+        $('.shop-details .slick-carousel').each(function() { load_slick_carousel($(this)); });
+        product_single_image();
+
+    }, 800);
         
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
             $(this).closest('.block').find('.slick-sliders').slick('refresh');
