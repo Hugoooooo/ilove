@@ -10517,3 +10517,9 @@ ul.slick-dots li.slick-active button {
   flex: 0 0 32.5%;
   max-width: 32.5%;
 }
+/* 修正標題斷行後的行距，避免文字重疊 */
+.product-title, .title, .product-name {
+    line-height: 1.5 !important;
+    display: block !important;
+    padding-bottom: 5px;
+}
