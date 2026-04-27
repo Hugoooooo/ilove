@@ -667,12 +667,25 @@ p {
   padding: 2px 18px;
 }
 
+/* 1. 強制鎖死 Slider 容器高度，不讓它閃動 */
+.block-sliders.layout-15,
+.slick-sliders,
 .banner-img {
-  background-position: center;
-  background-size: cover;
-  height: 500px;
-  -webkit-filter: contrast(0.75);
-          filter: contrast(0.75);
+    height: 500px !important; /* 跟原本一樣的高度 */
+    min-height: 500px !important;
+    overflow: hidden;
+}
+
+/* 2. 確保背景圖質感不變 */
+.banner-img {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-filter: contrast(0.75);
+    filter: contrast(0.75);
+    width: 100%;
+    opacity: 1 !important;
+    visibility: visible !important;
 }
 
 #site-footer .social-link li {
