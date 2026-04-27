@@ -289,8 +289,8 @@ $(document).ready(function() {
 
             // 1. 處理首頁：鎖定最強關鍵字
             if (isIndex) {
-                document.title = "花禾空間佈置｜新北台北婚禮佈置、抓週佈置、性別派對、生日氣球派對規劃首選";
-                var homeDesc = "花禾空間佈置提供專業婚禮設計、氣球派對、性別派對與抓週佈置。服務範圍涵蓋新北、台北、桃園地區，為您客製化質感活動氛圍。";
+                document.title = "花禾空間佈置｜新北台北婚禮佈置、抓週佈置、性別派對、生日氣球派對的規劃首選";
+                var homeDesc = "花禾空間佈置提供專業婚禮設計、氣球派對、性別派對與抓週佈置。服務範圍涵蓋新北、台北、桃園、新竹地區，為您客製化質感活動氛圍。";
                 $('meta[name="description"]').attr('content', homeDesc);
                 $('meta[property="og:description"]').attr('content', homeDesc);
                 return;
@@ -316,7 +316,7 @@ $(document).ready(function() {
                 }
                 document.title = finalTitle;
 
-                // --- 🌟 【圖片與背景圖優化】瘦身版 ---
+            // --- 🌟 【圖片與背景圖優化：屬性自動去斷行版】 ---
                 $('img, .square-img, .bg-img').each(function() {
                     var $this = $(this);
                     var isImgTag = $this.is('img');
@@ -325,17 +325,20 @@ $(document).ready(function() {
 
                     // 針對產品圖進行優化
                     if (imgSrc.indexOf('products') > -1) {
-                        // 僅抓取「｜」前面的主要產品名稱，避免 Alt 過長
-                        var shortTitle = foundTitle.split('｜')[0];
+                        // 🚀 關鍵：建立一個「專門給屬性用」的標題，把 \n 變成空格，確保 SEO 評分
+                        var cleanTitleForAttr = foundTitle.replace(/\\n/g, ' ').replace(/\n/g, ' ').trim();
+                        
+                        var shortTitle = cleanTitleForAttr.split('｜')[0];
                         var seoText = shortTitle + "｜花禾空間佈置案例分享";
                         
                         if (isImgTag) {
-                            $this.attr('alt', seoText);
+                            $this.attr('alt', seoText); // 這裡會是單行，完美 SEO
+                            $this.attr('title', shortTitle + " | 花禾空間佈置"); // 這裡也是單行
                         } else {
                             $this.attr('aria-label', seoText);
                             $this.attr('role', 'img'); 
+                            $this.attr('title', shortTitle + " | 花禾空間佈置");
                         }
-                        $this.attr('title', shortTitle + " | 花禾空間佈置");
                     }
                 });
             }

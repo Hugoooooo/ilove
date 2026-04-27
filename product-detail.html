@@ -157,8 +157,7 @@
   </div>
 </div>
                     <div class="product-info col-lg-5 col-md-12 col-12">
-                      <h2 class="title">{{productInfo.name}}</h2><span class="price" v-if="productInfo.price">{{productInfo.price}}</span>
-                      <p class="description mb-0" v-html="productInfo.content"></p><a class="button2 mt-5" href="https://lin.ee/QRqkPc3" target="_blank">立即訂購</a>
+                    <h2 class="title" v-html="productInfo.name ? productInfo.name.replace(/\\\\n/g, '<br>').replace(/\\n/g, '<br>').replace(/\n/g, '<br>') : ''"></h2><span class="price" v-if="productInfo.price">{{productInfo.price}}</span>                      <p class="description mb-0" v-html="productInfo.content"></p><a class="button2 mt-5" href="https://lin.ee/QRqkPc3" target="_blank">立即訂購</a>
                       <div class="product-meta py-5" v-if="productInfo.notice &amp;&amp; productInfo.notice.length &gt; 0">
                         <div class="mb-5" v-if="productInfo.warning">
                           <h4 class="mb-4">注意事項</h4>
