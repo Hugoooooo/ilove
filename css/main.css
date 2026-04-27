@@ -667,17 +667,17 @@ p {
   padding: 2px 18px;
 }
 
-/* 1. 強制鎖死 Slider 容器高度，不讓它閃動 */
+/* 1. 只鎖定「首頁輪播區域」的高度 */
 .block-sliders.layout-15,
-.slick-sliders,
-.banner-img {
-    height: 500px !important; /* 跟原本一樣的高度 */
+.block-sliders.layout-15 .slick-sliders,
+.block-sliders.layout-15 .banner-img {
+    height: 500px !important;
     min-height: 500px !important;
     overflow: hidden;
 }
 
-/* 2. 確保背景圖質感不變 */
-.banner-img {
+/* 2. 針對首頁大圖的濾鏡與顯示設定 */
+.block-sliders.layout-15 .banner-img {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
