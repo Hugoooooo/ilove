@@ -2,40 +2,45 @@
 <html itemscope itemtype="http://schema.org/Article" lang="zh-TW">
   <!--page default Information-->
   <!--html head-->
-  <head>
-    <!-- Meta Data-->
+ <head>
+    <!-- 基礎設定 -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- 效能核心：優先預載第一張大圖 (解決 LCP) -->
+    <link rel="preload" as="image" href="images/banner/1.avif" fetchpriority="high">
+
+    <!-- SEO 資料 -->
     <title>花禾空間佈置｜氣球・婚禮・派對</title>
     <meta name="description" content="氣球派對、婚禮佈置｜性別派對、收涎抓周｜空飄氣球、爆破氣球｜永生花禮、鈔票花禮">
-    <meta itemprop="name" content="花禾空間佈置｜氣球・婚禮・派對">
-    <meta itemprop="description" content="氣球派對、婚禮佈置｜性別派對、收涎抓周｜空飄氣球、爆破氣球｜永生花禮、鈔票花禮">
     <meta name="keywords" content="氣球佈置,婚禮佈置,生日派對,性別派對,收涎抓周,空飄氣球,爆破氣球,永生花,鈔票花,花藝設計,氣球牆,花禮,客製化佈置,新北花藝,台北佈置,新北佈置,樹林佈置">
-    <meta itemprop="image" content="images/logo-new.jpg">
+    
+    <!-- 社群分享 Meta -->
     <meta property="og:title" content="花禾空間佈置｜氣球・婚禮・派對">
     <meta property="og:description" content="氣球派對、婚禮佈置｜性別派對、收涎抓周｜空飄氣球、爆破氣球｜永生花禮、鈔票花禮">
     <meta property="og:image" content="images/logo-new.jpg">
-    <!-- Favicon-->
     <link rel="shortcut icon" type="image/x-icon" href="images/logo.png">
-    <!-- Dependency Styles-->
-    <link rel="stylesheet" href="./static/libs/bootstrap/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/feather-font/css/iconfont.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/icomoon-font/css/icomoon.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/font-awesome/css/font-awesome.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/wpbingofont/css/wpbingofont.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/elegant-icons/css/elegant.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/slick/css/slick.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/slick/css/slick-theme.css" type="text/css">
-    <link rel="stylesheet" href="./static/libs/mmenu/css/mmenu.min.css" type="text/css">
-    <!-- Site Stylesheet-->
-    <link rel="stylesheet" href="./static/css/app.css" type="text/css">
-    <link rel="stylesheet" href="./static/css/responsive.css" type="text/css">
+
+    <!-- 1. Google 字體全家桶：包含 Barlow, Garamond 與中文字體 (解決 0.365 位移) -->
+    <link rel="preconnect" href="https://googleapis.com">
+    <link rel="preconnect" href="https://gstatic.com" crossorigin>
+    <link href="https://googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;600&family=EB+Garamond:ital,wght@0,400;1,400&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- 2. 所有 CSS 連結 (按原始正確順序排列) -->
+    <link rel="stylesheet" href="./static/libs/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/libs/feather-font/css/iconfont.css">
+    <link rel="stylesheet" href="./static/libs/icomoon-font/css/icomoon.css">
+    <link rel="stylesheet" href="./static/libs/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="./static/libs/wpbingofont/css/wpbingofont.css">
+    <link rel="stylesheet" href="./static/libs/elegant-icons/css/elegant.css">
+    <link rel="stylesheet" href="./static/libs/slick/css/slick.css">
+    <link rel="stylesheet" href="./static/libs/slick/css/slick-theme.css">
+    <link rel="stylesheet" href="./static/libs/mmenu/css/mmenu.min.css">
+    <link rel="stylesheet" href="./static/css/app.css">
+    <link rel="stylesheet" href="./static/css/responsive.css">
     <link rel="stylesheet" href="css/main.css?v=1742549014951">
-            <!-- Google Web Fonts-->
-    <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=EB+Garamond:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap" rel="stylesheet">
-  </head>
+</head>
   <!--html body-->
   <body class="home home-15 title-15">
     <div id="app">
