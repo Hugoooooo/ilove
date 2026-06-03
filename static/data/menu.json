@@ -10,6 +10,21 @@
         "img": "images/products/category1-1/28.webp",
         "children": [
           {
+            "name": "真好麥中華料理\n經典大花-婚禮佈置43-花語傾城",
+            "category": "category1-1",
+            "id": "product1143",
+            "content": "背板尺寸: W300 × H240 cm\n婚禮場地: 真好麥中華料理\n\n專案內容包含\n1.拍照區背景佈置\n2.收禮桌、相片桌整體佈置（桌子由餐廳提供）\n3.客製 LOGO 設計（含平面輸出）\n4.專人進場＆撤場服務\n＊晚宴撤場需加收非營業時間費用 $2,000\n5.背板設計客製圖稿\n＊不含周邊道具與花藝模擬圖\n6.花色更換或指定配色屬客製化設計,費用另計\n\n可依主題需求加購其他項目，如 LOGO 立體字、迎賓板、桌旗、地貼等…\n皆依尺寸與材質報價，提供客製化搭配服務。\n\n注意事項\n1.停車費用請新人協助消磁。\n2.背板尺寸可依需求調整，費用將依實際尺寸與設計內容另行報價。\n3.專案皆以仿真花設計為主，如需更換為鮮花將另行報價。\n4.若收禮桌、相片桌需由本公司額外提供，將加收 NT$500。\n5.佈置道具如有毀損或遺失，將依實際情況酌收賠償費用",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category1-1/43.webp"]
+          },
+          {
             "name": "南海漁村 蘆洲店\n中式復古-婚禮佈置42-醉紅年代",
             "category": "category1-1",
             "id": "product1142",
@@ -886,7 +901,7 @@
       {
         "name": "婚禮周邊客製",
         "id": "category1-3",
-        "img": "images/products/category1-3/1-1.webp",
+        "img": "images/products/category1-3/11.webp",
         "children": [
           {
             "name": "雲朵迎賓鏡",
@@ -1037,7 +1052,7 @@
       {
         "name": "婚禮走道佈置",
         "id": "category1-4",
-        "img": "images/products/category1-3/1-1.webp",
+        "img": "images/products/category1-4/1.webp",
         "children": [
           {
             "name": "走道佈置1-朝愛前行",
@@ -1095,7 +1110,7 @@
       {
         "name": "婚禮舞台佈置",
         "id": "category1-5",
-        "img": "images/products/category1-3/1-1.webp",
+        "img": "images/products/category1-5/1.webp",
         "children": [
           {
             "name": "舞台佈置1",
@@ -2080,6 +2095,22 @@
               "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
             ],
             "img": ["images/products/category5-1/11.webp"]
+          },
+          {
+            "name": "氣球拱門(造型)10",
+            "category": "category5-1",
+            "id": "product5112",
+            "price": "",
+            "content": "依造型需求報價\n請洽 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a>",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": ["images/products/category5-1/12.webp"]
           }
         ]
       },
@@ -2977,7 +3008,7 @@
             "name": "生日佈置10",
             "category": "category7-1",
             "id": "product7110",
-            "price": "NT$48,500 ",
+            "price": "NT$38,500 ",
             "content": "【空飄】\n  12 吋乳膠氣球 × 10\n  18 吋鋁箔氣球 × 2\n  40 吋數字鋁箔 × 1\n【空氣】\n  地面氣氛球 × 30\n  不規則氣球鏈 × 2\n【其它】\n  造型背板 × 4\n【需加購租借】\n  羅馬柱",
             "warning": "•氣球、背板顏色可依需求調整\n•可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n•如需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
             "notice": [
@@ -3266,11 +3297,32 @@
         "img": "images/products/category8-1/7.webp",
         "children": [
           {
+            "name": "抓週派對佈置24-晴空日和",
+            "category": "category8-1",
+            "id": "product8124",
+            "price": "NT$32,500",
+            "content": "【空氣】\n  2米不規則氣球鏈×1\n  1米不規則氣球鏈 x 1\n【LED背板】\n  180*110 × 2 \n  造型板 x 3 \n【其它】\n  招牌大花 x 3  \n  蝴蝶結 x 2 \n  仿真地花 x 3",
+            "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
+            "notice": [
+              "本專案不包含撤廠服務",
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category8-1/24-1.webp",
+              "images/products/category8-1/24-2.webp"
+            ]
+          },
+          {
             "name": "抓週派對佈置23-寶寶施工中",
             "category": "category8-1",
             "id": "product8123",
             "price": "NT$15,500",
-            "content": "【空氣】\n  2米不規則氣球鏈×1\n  1米不規則氣球鏈 x 1\n【背板】\n  200*110 × 1 \n  造型板 x 4",
+            "content": "【空氣】\n  2米不規則氣球鏈×1\n  1米不規則氣球鏈 x 1\n【背板】\n  200*110 × 1 \n  造型板 x 4 ",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
               "本專案不包含撤廠服務",
@@ -3467,7 +3519,7 @@
             "name": "抓週派對佈置12-動物樂園",
             "category": "category8-1",
             "id": "product8112",
-            "price": "NT$48,500",
+            "price": "NT$38,500",
             "content": "【空飄】\n  12 吋乳膠氣球 × 10\n  18 吋鋁箔氣球 × 2\n  40 吋數字鋁箔 × 1\n【空氣】\n  地面氣氛球 × 30\n  1米不規則氣球鏈 × 1 \n  3米加厚氣球鏈  x 1\n【背板】\n  320*260 × 1 \n  282*235 x 1 \n  造型版 x 6\n【需加購租借】\n  羅馬柱\n",
             "warning": "• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主\n",
             "notice": [
@@ -4194,6 +4246,26 @@
         "id": "category9-1",
         "img": "images/products/category9-1/3.webp",
         "children": [
+          {
+            "name": "性別派對佈置09",
+            "category": "category9-1",
+            "id": "product9109",
+            "price": "NT$10,000 ",
+            "content": " 性別揭曉球需另外加購\n\n【背板】\n  200*110 x 1\n  85 x 1\n【空氣】\n  1米不規則球鏈 x 1 ",
+            "warning": "如尚未知曉寶寶性別，歡迎寄件提供小卡給我們\n收件人姓名 : 花禾空間佈置\n寄件地址 :  238新北市樹林區光興街47號\n連絡電話 :  0919-933687\n\n• 氣球、背板顏色可依需求調整\n• 可加購其他派對週邊（例：立牌、迎賓板、派對水等）\n• 需客製調整其它內容，請加官方 Line 洽詢，最終費用將依實際調整為主",
+            "notice": [
+              "本商品為活動佈置專案，請務必先加入 <a href='https://lin.ee/QRqkPc3' target='_blank'>LINE 帳號預約 ( @520love )</a> 3天內預約會多收$500元急件費。",
+              "訂單成立後，代表同意一切注意事項，恕不接受取消與退款。 ",
+              "商品請點確認後離開門市後不予保固。",
+              "圖片為氣球款式搭配⽰意圖，最終呈現以實際場地情況為準",
+              "若有未盡之處，本公司保留變更本內容細節之權利。",
+              "購買跟租借前請詳閱 <a href='/notice.html'>購物須知</a>"
+            ],
+            "img": [
+              "images/products/category9-1/9-1.webp",
+              "images/products/category9-1/9-2.webp"
+            ]
+          },
           {
             "name": "性別派對佈置08",
             "category": "category9-1",
